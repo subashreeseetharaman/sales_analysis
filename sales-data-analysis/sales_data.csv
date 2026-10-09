@@ -1,0 +1,1001 @@
+Order_ID,Date,Region,Product,Category,Quantity,Unit_Price,Payment_Method,Customer_Rating,Sales
+ORD1258,2024-01-01,West,Laptop,Electronics,5,55718.48,Cash,4.0,278592.4
+ORD1441,2024-01-01,South,Smartphone,Electronics,4,20626.58,UPI,5.0,82506.32
+ORD1315,2024-01-01,East,Headphones,Electronics,4,2281.99,Credit Card,4.0,9127.96
+ORD1788,2024-01-02,North,Pen Set,Stationery,4,242.45,UPI,5.0,969.8
+ORD1627,2024-01-02,South,Smartphone,Electronics,1,22758.73,UPI,5.0,22758.73
+ORD1400,2024-01-03,East,Headphones,Electronics,6,2284.41,Debit Card,4.0,13706.46
+ORD1201,2024-01-03,West,Water Bottle,Accessories,3,650.73,Debit Card,3.0,1952.19
+ORD1645,2024-01-03,West,Backpack,Accessories,1,1892.12,Cash,3.0,1892.12
+ORD1442,2024-01-04,South,Pen Set,Stationery,7,227.02,Cash,5.0,1589.14
+ORD1974,2024-01-07,South,Headphones,Electronics,7,2288.18,Credit Card,5.0,16017.26
+ORD1089,2024-01-08,North,Notebook,Stationery,4,130.06,UPI,3.0,520.24
+ORD1170,2024-01-08,South,Headphones,Electronics,5,2743.3,Cash,5.0,13716.5
+ORD1260,2024-01-09,South,Smartphone,Electronics,7,20148.99,Cash,4.0,141042.93
+ORD1137,2024-01-09,West,Desk,Furniture,5,10936.36,Cash,1.0,54681.8
+ORD1711,2024-01-09,South,Pen Set,Stationery,7,262.92,UPI,,1840.44
+ORD1468,2024-01-10,South,Smartphone,Electronics,4,21165.6,Cash,4.0,84662.4
+ORD1222,2024-01-10,East,Pen Set,Stationery,7,263.0,UPI,2.0,1841.0
+ORD1635,2024-01-10,East,Smartphone,Electronics,5,20071.97,UPI,4.0,100359.85
+ORD1409,2024-01-10,West,Water Bottle,Accessories,5,552.1,UPI,5.0,2760.5
+ORD1328,2024-01-10,West,Notebook,Stationery,2,120.16,Debit Card,4.0,240.32
+ORD1262,2024-01-12,North,Headphones,Electronics,5,2285.89,UPI,3.0,11429.45
+ORD1558,2024-01-12,North,Notebook,Stationery,4,122.94,UPI,4.0,491.76
+ORD1950,2024-01-12,East,Notebook,Stationery,3,118.21,UPI,4.0,354.63
+ORD1498,2024-01-12,West,Headphones,Electronics,7,2446.02,Cash,1.0,17122.14
+ORD1865,2024-01-13,East,Water Bottle,Accessories,4,578.89,UPI,4.0,2315.56
+ORD1321,2024-01-13,South,Desk,Furniture,6,11841.69,Credit Card,4.0,71050.14
+ORD1763,2024-01-14,North,Smartphone,Electronics,1,20894.24,Credit Card,5.0,20894.24
+ORD1771,2024-01-15,East,Notebook,Stationery,2,131.07,UPI,5.0,262.14
+ORD1037,2024-01-15,West,Desk,Furniture,4,10811.96,Debit Card,3.0,43247.84
+ORD1880,2024-01-15,West,Office Chair,Furniture,2,7826.22,UPI,4.0,15652.44
+ORD1727,2024-01-15,North,Laptop,Electronics,1,52238.13,UPI,4.0,52238.13
+ORD1629,2024-01-15,North,Backpack,Accessories,1,1688.32,UPI,4.0,1688.32
+ORD1202,2024-01-15,South,Notebook,Stationery,6,130.0,UPI,3.0,780.0
+ORD1338,2024-01-16,West,Smartphone,Electronics,3,21086.29,Credit Card,5.0,63258.87
+ORD1779,2024-01-17,East,Backpack,Accessories,1,1966.26,Debit Card,2.0,1966.26
+ORD1521,2024-01-17,North,Headphones,Electronics,5,2684.12,Credit Card,3.0,13420.6
+ORD1370,2024-01-17,South,Pen Set,Stationery,6,269.64,UPI,3.0,1617.84
+ORD1883,2024-01-18,North,Desk,Furniture,2,11912.7,UPI,5.0,23825.4
+ORD1504,2024-01-19,North,Notebook,Stationery,4,125.24,UPI,5.0,500.96
+ORD1411,2024-01-19,North,Notebook,Stationery,4,111.22,UPI,5.0,444.88
+ORD1971,2024-01-19,West,Laptop,Electronics,2,51094.81,UPI,1.0,102189.62
+ORD1277,2024-01-19,South,Notebook,Stationery,6,120.8,Cash,5.0,724.8
+ORD1617,2024-01-20,North,Headphones,Electronics,2,2329.87,Credit Card,5.0,4659.74
+ORD1313,2024-01-20,South,Headphones,Electronics,3,2558.32,Debit Card,4.0,7674.96
+ORD1487,2024-01-21,East,Headphones,Electronics,6,2623.07,UPI,,15738.42
+ORD1787,2024-01-22,West,Headphones,Electronics,5,2313.94,Debit Card,5.0,11569.7
+ORD1459,2024-01-22,East,Notebook,Stationery,7,127.0,Debit Card,2.0,889.0
+ORD1656,2024-01-22,North,Backpack,Accessories,6,1677.07,Cash,5.0,10062.42
+ORD1001,2024-01-23,West,Office Chair,Furniture,1,7641.14,UPI,4.0,7641.14
+ORD1524,2024-01-23,South,Smartphone,Electronics,5,22026.24,Debit Card,3.0,110131.2
+ORD1372,2024-01-23,West,Headphones,Electronics,3,2677.58,Credit Card,1.0,8032.74
+ORD1981,2024-01-23,South,Backpack,Accessories,6,1778.77,UPI,4.0,10672.62
+ORD1803,2024-01-24,South,Notebook,Stationery,7,112.28,Credit Card,4.0,785.96
+ORD1887,2024-01-24,North,Smartphone,Electronics,2,23537.32,Debit Card,3.0,47074.64
+ORD1330,2024-01-24,South,Pen Set,Stationery,4,272.21,UPI,5.0,1088.84
+ORD1128,2024-01-24,North,Smartphone,Electronics,5,22831.15,Debit Card,5.0,114155.75
+ORD1439,2024-01-25,North,Notebook,Stationery,4,122.31,UPI,3.0,489.24
+ORD1963,2024-01-25,East,Smartphone,Electronics,2,21004.93,UPI,4.0,42009.86
+ORD1710,2024-01-25,West,Water Bottle,Accessories,2,644.11,Debit Card,5.0,1288.22
+ORD1311,2024-01-25,South,Office Chair,Furniture,7,8155.36,Debit Card,3.0,57087.52
+ORD1590,2024-01-26,South,Water Bottle,Accessories,1,636.47,UPI,4.0,636.47
+ORD1231,2024-01-26,North,Office Chair,Furniture,4,6918.18,UPI,5.0,27672.72
+ORD1704,2024-01-26,South,Headphones,Electronics,3,2280.41,UPI,4.0,6841.23
+ORD1794,2024-01-26,South,Laptop,Electronics,3,55685.62,UPI,5.0,167056.86
+ORD1024,2024-01-27,East,Pen Set,Stationery,7,240.71,Debit Card,4.0,1684.97
+ORD1478,2024-01-29,West,Notebook,Stationery,1,130.37,Debit Card,4.0,130.37
+ORD1855,2024-01-29,West,Desk,Furniture,5,11327.74,Cash,5.0,56638.7
+ORD1668,2024-01-29,South,Headphones,Electronics,6,2440.0,Cash,4.0,14640.0
+ORD1751,2024-01-30,West,Headphones,Electronics,2,2505.77,Credit Card,4.0,5011.54
+ORD1634,2024-01-31,South,Laptop,Electronics,6,55979.23,Credit Card,2.0,335875.38
+ORD1528,2024-02-01,East,Pen Set,Stationery,1,266.88,UPI,5.0,266.88
+ORD1365,2024-02-01,West,Office Chair,Furniture,2,7245.48,UPI,5.0,14490.96
+ORD1864,2024-02-01,East,Smartphone,Electronics,7,23976.71,Debit Card,4.0,167836.97
+ORD1316,2024-02-01,West,Headphones,Electronics,4,2618.73,Cash,1.0,10474.92
+ORD1853,2024-02-02,East,Water Bottle,Accessories,5,586.92,UPI,3.0,2934.6
+ORD1081,2024-02-03,South,Office Chair,Furniture,4,6920.86,UPI,4.0,27683.44
+ORD1032,2024-02-03,East,Headphones,Electronics,3,2376.95,Credit Card,1.0,7130.85
+ORD1339,2024-02-03,West,Water Bottle,Accessories,4,602.49,Debit Card,3.0,2409.96
+ORD1911,2024-02-03,West,Backpack,Accessories,3,1790.83,Credit Card,2.0,5372.49
+ORD1593,2024-02-04,North,Notebook,Stationery,5,110.08,UPI,1.0,550.4
+ORD1452,2024-02-04,West,Pen Set,Stationery,6,225.05,Debit Card,5.0,1350.3
+ORD1265,2024-02-04,North,Smartphone,Electronics,7,20803.55,Credit Card,1.0,145624.85
+ORD1815,2024-02-04,South,Backpack,Accessories,1,1760.49,,5.0,1760.49
+ORD1305,2024-02-05,East,Desk,Furniture,6,10913.67,UPI,4.0,65482.02
+ORD1741,2024-02-05,North,Smartphone,Electronics,5,20631.43,UPI,4.0,103157.15
+ORD1501,2024-02-06,South,Backpack,Accessories,2,1825.38,Credit Card,4.0,3650.76
+ORD1471,2024-02-06,West,Desk,Furniture,4,11873.1,UPI,2.0,47492.4
+ORD1320,2024-02-06,West,Water Bottle,Accessories,3,541.5,Debit Card,2.0,1624.5
+ORD1956,2024-02-06,East,Pen Set,Stationery,2,274.45,Cash,4.0,548.9
+ORD1555,2024-02-07,South,Headphones,Electronics,4,2649.55,Debit Card,5.0,10598.2
+ORD1681,2024-02-07,West,Smartphone,Electronics,6,20552.42,UPI,4.0,123314.52
+ORD1422,2024-02-07,South,Laptop,Electronics,1,56749.04,Credit Card,5.0,56749.04
+ORD1514,2024-02-07,South,Headphones,Electronics,4,2709.45,UPI,2.0,10837.8
+ORD1264,2024-02-08,North,Water Bottle,Accessories,6,580.64,Debit Card,4.0,3483.84
+ORD1622,2024-02-08,South,Water Bottle,Accessories,2,594.11,Credit Card,4.0,1188.22
+ORD1614,2024-02-08,North,Headphones,Electronics,5,2551.28,UPI,4.0,12756.4
+ORD1474,2024-02-08,North,Headphones,Electronics,1,2526.34,Credit Card,4.0,2526.34
+ORD1176,2024-02-08,West,Office Chair,Furniture,2,8050.51,Credit Card,3.0,16101.02
+ORD1503,2024-02-09,East,Notebook,Stationery,6,123.48,Credit Card,4.0,740.88
+ORD1945,2024-02-09,East,Headphones,Electronics,1,2690.86,Debit Card,3.0,2690.86
+ORD1243,2024-02-10,West,Notebook,Stationery,7,115.2,Credit Card,3.0,806.4
+ORD1852,2024-02-11,South,Backpack,Accessories,2,1752.03,Debit Card,1.0,3504.06
+ORD1910,2024-02-11,East,Pen Set,Stationery,2,250.57,UPI,5.0,501.14
+ORD1722,2024-02-11,South,Laptop,Electronics,5,58861.41,UPI,2.0,294307.05
+ORD1213,2024-02-12,West,Backpack,Accessories,5,1832.48,UPI,5.0,9162.4
+ORD1680,2024-02-12,West,Laptop,Electronics,2,57616.43,Cash,5.0,115232.86
+ORD1214,2024-02-12,South,Pen Set,Stationery,6,232.32,Credit Card,4.0,1393.92
+ORD1505,2024-02-12,West,Pen Set,Stationery,6,253.36,UPI,4.0,1520.16
+ORD1268,2024-02-13,North,Smartphone,Electronics,5,23986.79,Debit Card,5.0,119933.95
+ORD1785,2024-02-13,North,Headphones,Electronics,5,2713.93,Cash,5.0,13569.65
+ORD1363,2024-02-13,East,Smartphone,Electronics,6,22424.3,Cash,5.0,134545.8
+ORD1699,2024-02-13,East,Headphones,Electronics,3,2465.01,Debit Card,2.0,7395.03
+ORD1509,2024-02-14,East,Smartphone,Electronics,7,21023.53,UPI,4.0,147164.71
+ORD1922,2024-02-15,West,Notebook,Stationery,5,116.3,UPI,5.0,581.5
+ORD1822,2024-02-16,South,Headphones,Electronics,7,2519.17,Debit Card,5.0,17634.19
+ORD1908,2024-02-16,South,Headphones,Electronics,6,2523.51,Debit Card,3.0,15141.06
+ORD1818,2024-02-16,South,Notebook,Stationery,3,124.46,Credit Card,4.0,373.38
+ORD1829,2024-02-16,South,Headphones,Electronics,4,2562.18,Cash,5.0,10248.72
+ORD1079,2024-02-16,West,Pen Set,Stationery,4,238.36,Credit Card,5.0,953.44
+ORD1549,2024-02-16,South,Office Chair,Furniture,6,8027.95,UPI,,48167.7
+ORD1696,2024-02-16,North,Pen Set,Stationery,1,239.97,Credit Card,2.0,239.97
+ORD1005,2024-02-17,South,Water Bottle,Accessories,7,632.93,,4.0,4430.51
+ORD1103,2024-02-17,West,Water Bottle,Accessories,4,631.3,UPI,4.0,2525.2
+ORD1698,2024-02-17,South,Notebook,Stationery,6,108.59,Credit Card,5.0,651.54
+ORD1760,2024-02-18,East,Pen Set,Stationery,1,274.41,Credit Card,2.0,274.41
+ORD1430,2024-02-18,East,Water Bottle,Accessories,7,607.5,UPI,4.0,4252.5
+ORD1084,2024-02-18,East,Laptop,Electronics,4,57870.48,Credit Card,5.0,231481.92
+ORD1206,2024-02-19,North,Smartphone,Electronics,5,19815.91,UPI,2.0,99079.55
+ORD1479,2024-02-19,North,Office Chair,Furniture,5,7596.44,Cash,5.0,37982.2
+ORD1726,2024-02-19,East,Headphones,Electronics,4,2730.94,Debit Card,4.0,10923.76
+ORD1209,2024-02-20,South,Notebook,Stationery,1,110.29,UPI,2.0,110.29
+ORD1377,2024-02-20,South,Office Chair,Furniture,2,8123.1,UPI,5.0,16246.2
+ORD1107,2024-02-20,South,Headphones,Electronics,7,2573.21,Debit Card,3.0,18012.47
+ORD1233,2024-02-20,South,Notebook,Stationery,2,110.4,Debit Card,4.0,220.8
+ORD1735,2024-02-21,West,Pen Set,Stationery,4,273.75,Debit Card,5.0,1095.0
+ORD1301,2024-02-22,East,Smartphone,Electronics,7,21204.37,Debit Card,4.0,148430.59
+ORD1518,2024-02-22,East,Laptop,Electronics,4,55476.87,Debit Card,3.0,221907.48
+ORD1329,2024-02-23,South,Headphones,Electronics,4,2361.52,Cash,4.0,9446.08
+ORD1890,2024-02-24,East,Headphones,Electronics,6,2321.23,UPI,5.0,13927.38
+ORD1062,2024-02-24,West,Notebook,Stationery,5,113.87,UPI,4.0,569.35
+ORD1662,2024-02-24,South,Smartphone,Electronics,7,23716.06,Credit Card,4.0,166012.42
+ORD1888,2024-02-24,West,Smartphone,Electronics,5,23887.29,UPI,5.0,119436.45
+ORD1007,2024-02-25,South,Pen Set,Stationery,6,230.54,UPI,4.0,1383.24
+ORD1638,2024-02-25,West,Pen Set,Stationery,1,265.23,UPI,,265.23
+ORD1221,2024-02-26,South,Desk,Furniture,7,12748.49,UPI,4.0,89239.43
+ORD1307,2024-02-26,South,Notebook,Stationery,6,108.61,UPI,3.0,651.66
+ORD1885,2024-02-26,West,Headphones,Electronics,6,2269.66,Debit Card,1.0,13617.96
+ORD1248,2024-02-26,South,Headphones,Electronics,7,2689.71,UPI,2.0,18827.97
+ORD1012,2024-02-26,East,Notebook,Stationery,5,126.29,Cash,3.0,631.45
+ORD1426,2024-02-27,South,Headphones,Electronics,6,2293.18,UPI,5.0,13759.08
+ORD1867,2024-02-27,South,Pen Set,Stationery,7,237.87,UPI,5.0,1665.09
+ORD1791,2024-02-27,East,Office Chair,Furniture,1,7237.16,UPI,4.0,7237.16
+ORD1659,2024-02-28,North,Office Chair,Furniture,6,6835.94,UPI,5.0,41015.64
+ORD1932,2024-02-29,East,Office Chair,Furniture,3,7515.25,Debit Card,4.0,22545.75
+ORD1368,2024-02-29,East,Headphones,Electronics,5,2317.53,UPI,5.0,11587.65
+ORD1432,2024-02-29,West,Pen Set,Stationery,3,274.23,Debit Card,4.0,822.69
+ORD1094,2024-02-29,West,Headphones,Electronics,4,2482.75,UPI,5.0,9931.0
+ORD1719,2024-02-29,South,Water Bottle,Accessories,4,597.02,UPI,2.0,2388.08
+ORD1595,2024-03-01,South,Headphones,Electronics,3,2748.84,Cash,4.0,8246.52
+ORD1296,2024-03-02,East,Water Bottle,Accessories,1,630.76,Credit Card,5.0,630.76
+ORD1199,2024-03-02,West,Headphones,Electronics,7,2715.9,UPI,4.0,19011.3
+ORD1327,2024-03-02,South,Notebook,Stationery,2,128.37,Debit Card,5.0,256.74
+ORD1939,2024-03-02,West,Smartphone,Electronics,2,20210.16,UPI,5.0,40420.32
+ORD1533,2024-03-03,South,Notebook,Stationery,4,111.95,Credit Card,4.0,447.8
+ORD1449,2024-03-03,West,Notebook,Stationery,2,127.72,UPI,4.0,255.44
+ORD1930,2024-03-04,West,Headphones,Electronics,7,2515.71,Debit Card,5.0,17609.97
+ORD1102,2024-03-04,East,Headphones,Electronics,2,2729.69,Credit Card,1.0,5459.38
+ORD1804,2024-03-04,South,Smartphone,Electronics,3,19888.64,Debit Card,4.0,59665.92
+ORD1050,2024-03-04,North,Smartphone,Electronics,4,23700.85,Cash,3.0,94803.4
+ORD1477,2024-03-05,West,Notebook,Stationery,5,129.82,UPI,4.0,649.1
+ORD1031,2024-03-05,North,Water Bottle,Accessories,6,547.73,UPI,5.0,3286.38
+ORD1247,2024-03-05,East,Office Chair,Furniture,7,7952.86,UPI,3.0,55670.02
+ORD1367,2024-03-05,North,Pen Set,Stationery,5,257.37,Credit Card,5.0,1286.85
+ORD1369,2024-03-05,West,Backpack,Accessories,2,1778.78,Credit Card,4.0,3557.56
+ORD1146,2024-03-05,South,Headphones,Electronics,4,2617.54,UPI,5.0,10470.16
+ORD1274,2024-03-06,East,Pen Set,Stationery,5,260.21,UPI,4.0,1301.05
+ORD1380,2024-03-06,South,Notebook,Stationery,2,114.88,Credit Card,3.0,229.76
+ORD1482,2024-03-06,West,Notebook,Stationery,3,128.12,Debit Card,4.0,384.36
+ORD1612,2024-03-07,North,Water Bottle,Accessories,5,613.8,Debit Card,3.0,3069.0
+ORD1925,2024-03-07,West,Headphones,Electronics,1,2530.03,UPI,3.0,2530.03
+ORD1928,2024-03-08,East,Notebook,Stationery,1,111.33,Debit Card,5.0,111.33
+ORD1384,2024-03-08,South,Headphones,Electronics,1,2351.34,Debit Card,3.0,2351.34
+ORD1740,2024-03-08,South,Laptop,Electronics,6,51823.13,UPI,5.0,310938.78
+ORD1737,2024-03-09,South,Headphones,Electronics,7,2612.37,UPI,4.0,18286.59
+ORD1943,2024-03-09,East,Office Chair,Furniture,5,7662.45,Cash,5.0,38312.25
+ORD1673,2024-03-09,North,Pen Set,Stationery,5,242.29,UPI,4.0,1211.45
+ORD1070,2024-03-10,South,Smartphone,Electronics,7,19871.53,UPI,3.0,139100.71
+ORD1809,2024-03-10,West,Water Bottle,Accessories,3,635.78,Credit Card,5.0,1907.34
+ORD1391,2024-03-11,West,Smartphone,Electronics,2,22873.99,Debit Card,4.0,45747.98
+ORD1219,2024-03-11,West,Office Chair,Furniture,3,7245.9,Debit Card,2.0,21737.7
+ORD1553,2024-03-11,West,Water Bottle,Accessories,5,602.31,Debit Card,3.0,3011.55
+ORD1860,2024-03-11,West,Pen Set,Stationery,4,248.5,Credit Card,4.0,994.0
+ORD1992,2024-03-11,North,Pen Set,Stationery,6,229.03,Debit Card,5.0,1374.18
+ORD1850,2024-03-12,North,Smartphone,Electronics,2,21665.68,UPI,5.0,43331.36
+ORD1889,2024-03-12,North,Pen Set,Stationery,2,237.74,Cash,2.0,475.48
+ORD1465,2024-03-12,North,Pen Set,Stationery,4,264.65,UPI,5.0,1058.6
+ORD1812,2024-03-13,South,Water Bottle,Accessories,3,607.69,Credit Card,4.0,1823.07
+ORD1093,2024-03-13,South,Office Chair,Furniture,7,8196.87,UPI,,57378.09
+ORD1510,2024-03-13,North,Laptop,Electronics,3,60049.81,Credit Card,2.0,180149.43
+ORD1744,2024-03-13,South,Notebook,Stationery,1,110.16,UPI,4.0,110.16
+ORD1899,2024-03-14,East,Notebook,Stationery,7,112.62,Debit Card,2.0,788.34
+ORD1814,2024-03-14,South,Smartphone,Electronics,5,21695.89,Credit Card,4.0,108479.45
+ORD1348,2024-03-14,South,Notebook,Stationery,3,126.57,Credit Card,4.0,379.71
+ORD1642,2024-03-15,West,Laptop,Electronics,5,58474.17,Credit Card,5.0,292370.85
+ORD1115,2024-03-15,North,Backpack,Accessories,2,1847.68,UPI,5.0,3695.36
+ORD1764,2024-03-15,East,Water Bottle,Accessories,3,547.01,Credit Card,4.0,1641.03
+ORD1772,2024-03-15,West,Notebook,Stationery,3,124.34,UPI,3.0,373.02
+ORD1495,2024-03-16,West,Notebook,Stationery,2,127.59,UPI,3.0,255.18
+ORD1473,2024-03-16,South,Smartphone,Electronics,2,21601.81,UPI,3.0,43203.62
+ORD1869,2024-03-16,East,Smartphone,Electronics,5,21854.99,Credit Card,3.0,109274.95
+ORD1522,2024-03-17,North,Smartphone,Electronics,6,20282.49,Debit Card,4.0,121694.94
+ORD1359,2024-03-17,South,Notebook,Stationery,3,124.01,Debit Card,5.0,372.03
+ORD1276,2024-03-17,East,Headphones,Electronics,2,2491.73,Credit Card,4.0,4983.46
+ORD1443,2024-03-18,North,Smartphone,Electronics,6,21403.19,Cash,,128419.14
+ORD1733,2024-03-19,West,Office Chair,Furniture,3,7618.73,UPI,5.0,22856.19
+ORD1664,2024-03-19,West,Headphones,Electronics,4,2370.24,Credit Card,3.0,9480.96
+ORD1601,2024-03-19,North,Pen Set,Stationery,7,231.5,Cash,2.0,1620.5
+ORD1838,2024-03-19,East,Office Chair,Furniture,2,7942.54,UPI,4.0,15885.08
+ORD1469,2024-03-19,South,Notebook,Stationery,2,131.2,UPI,2.0,262.4
+ORD1461,2024-03-19,South,Smartphone,Electronics,1,23274.06,Credit Card,2.0,23274.06
+ORD1552,2024-03-20,South,Smartphone,Electronics,5,21313.76,UPI,4.0,106568.8
+ORD1873,2024-03-21,South,Headphones,Electronics,3,2309.94,Credit Card,3.0,6929.82
+ORD1702,2024-03-21,West,Smartphone,Electronics,2,22325.84,UPI,,44651.68
+ORD1393,2024-03-21,North,Pen Set,Stationery,6,226.42,Debit Card,4.0,1358.52
+ORD1357,2024-03-21,South,Pen Set,Stationery,6,249.03,UPI,4.0,1494.18
+ORD1193,2024-03-21,West,Backpack,Accessories,1,1871.97,Debit Card,4.0,1871.97
+ORD1298,2024-03-22,East,Pen Set,Stationery,2,248.96,Credit Card,3.0,497.92
+ORD1240,2024-03-22,South,Backpack,Accessories,3,1943.37,Debit Card,3.0,5830.11
+ORD1746,2024-03-23,South,Headphones,Electronics,4,2375.09,Credit Card,,9500.36
+ORD1913,2024-03-23,East,Water Bottle,Accessories,2,586.36,Cash,3.0,1172.72
+ORD1314,2024-03-23,West,Headphones,Electronics,3,2395.95,UPI,4.0,7187.85
+ORD1935,2024-03-24,West,Smartphone,Electronics,2,20959.62,UPI,4.0,41919.24
+ORD1967,2024-03-24,East,Smartphone,Electronics,5,20495.94,UPI,3.0,102479.7
+ORD1208,2024-03-26,West,Smartphone,Electronics,4,20281.74,Credit Card,2.0,81126.96
+ORD1174,2024-03-26,West,Smartphone,Electronics,2,22783.25,Debit Card,3.0,45566.5
+ORD1292,2024-03-27,North,Water Bottle,Accessories,3,609.48,UPI,5.0,1828.44
+ORD1881,2024-03-27,South,Notebook,Stationery,7,129.95,Credit Card,3.0,909.65
+ORD1181,2024-03-28,West,Backpack,Accessories,6,1712.64,UPI,4.0,10275.84
+ORD1640,2024-03-28,West,Pen Set,Stationery,6,238.83,UPI,4.0,1432.98
+ORD1966,2024-03-29,West,Water Bottle,Accessories,6,599.76,UPI,5.0,3598.56
+ORD1666,2024-03-29,West,Backpack,Accessories,2,1696.04,Debit Card,3.0,3392.08
+ORD1750,2024-03-30,East,Headphones,Electronics,7,2292.43,UPI,1.0,16047.01
+ORD1686,2024-03-30,West,Office Chair,Furniture,6,7272.02,UPI,2.0,43632.12
+ORD1161,2024-03-30,East,Water Bottle,Accessories,1,655.72,UPI,5.0,655.72
+ORD1486,2024-03-30,South,Desk,Furniture,2,12423.35,Debit Card,5.0,24846.7
+ORD1252,2024-03-30,West,Desk,Furniture,5,11450.21,UPI,3.0,57251.05
+ORD1099,2024-03-31,South,Water Bottle,Accessories,3,560.39,Cash,5.0,1681.17
+ORD1236,2024-04-01,West,Desk,Furniture,4,13089.86,UPI,3.0,52359.44
+ORD1398,2024-04-02,North,Desk,Furniture,7,12460.7,,4.0,87224.9
+ORD1125,2024-04-03,West,Notebook,Stationery,6,112.63,UPI,1.0,675.78
+ORD1187,2024-04-04,South,Smartphone,Electronics,1,23601.93,UPI,4.0,23601.93
+ORD1078,2024-04-04,West,Notebook,Stationery,6,122.61,UPI,4.0,735.66
+ORD1420,2024-04-04,South,Notebook,Stationery,6,128.66,UPI,4.0,771.96
+ORD1345,2024-04-04,East,Pen Set,Stationery,3,258.59,Cash,2.0,775.77
+ORD1607,2024-04-04,West,Smartphone,Electronics,5,20884.49,UPI,4.0,104422.45
+ORD1417,2024-04-05,West,Pen Set,Stationery,2,264.34,UPI,5.0,528.68
+ORD1894,2024-04-05,East,Pen Set,Stationery,4,271.23,Debit Card,1.0,1084.92
+ORD1491,2024-04-06,East,Notebook,Stationery,6,108.06,Cash,4.0,648.36
+ORD1300,2024-04-07,East,Pen Set,Stationery,1,272.13,Credit Card,4.0,272.13
+ORD1332,2024-04-08,South,Pen Set,Stationery,3,226.31,UPI,3.0,678.93
+ORD1657,2024-04-08,South,Headphones,Electronics,6,2458.53,UPI,5.0,14751.18
+ORD1576,2024-04-09,West,Water Bottle,Accessories,5,638.41,Debit Card,5.0,3192.05
+ORD1429,2024-04-09,South,Backpack,Accessories,7,1915.78,UPI,4.0,13410.46
+ORD1237,2024-04-09,North,Pen Set,Stationery,6,239.24,Cash,2.0,1435.44
+ORD1105,2024-04-10,South,Pen Set,Stationery,5,258.8,UPI,4.0,1294.0
+ORD1044,2024-04-11,South,Backpack,Accessories,6,1889.83,Credit Card,3.0,11338.98
+ORD1954,2024-04-11,East,Water Bottle,Accessories,5,548.27,UPI,,2741.35
+ORD1310,2024-04-12,South,Desk,Furniture,7,13040.13,Credit Card,4.0,91280.91
+ORD1108,2024-04-12,South,Smartphone,Electronics,3,20621.45,Cash,4.0,61864.35
+ORD1848,2024-04-12,North,Smartphone,Electronics,5,20839.58,UPI,2.0,104197.9
+ORD1110,2024-04-12,South,Desk,Furniture,4,11524.3,UPI,3.0,46097.2
+ORD1786,2024-04-13,West,Backpack,Accessories,5,1965.68,UPI,5.0,9828.4
+ORD1870,2024-04-13,South,Pen Set,Stationery,6,243.53,Credit Card,4.0,1461.18
+ORD1978,2024-04-13,South,Notebook,Stationery,2,119.84,Debit Card,3.0,239.68
+ORD1109,2024-04-13,South,Water Bottle,Accessories,2,652.52,Credit Card,5.0,1305.04
+ORD1218,2024-04-14,East,Water Bottle,Accessories,1,573.67,Cash,3.0,573.67
+ORD1192,2024-04-14,South,Smartphone,Electronics,4,22235.1,Credit Card,2.0,88940.4
+ORD1705,2024-04-14,East,Notebook,Stationery,6,111.67,UPI,4.0,670.02
+ORD1811,2024-04-14,North,Laptop,Electronics,5,51013.12,Debit Card,2.0,255065.6
+ORD1185,2024-04-15,South,Pen Set,Stationery,5,229.03,Debit Card,5.0,1145.15
+ORD1806,2024-04-15,East,Pen Set,Stationery,3,258.3,Credit Card,5.0,774.9
+ORD1418,2024-04-15,East,Smartphone,Electronics,4,20052.13,UPI,3.0,80208.52
+ORD1397,2024-04-15,South,Headphones,Electronics,3,2305.09,Debit Card,4.0,6915.27
+ORD1540,2024-04-16,South,Water Bottle,Accessories,2,646.66,UPI,5.0,1293.32
+ORD1040,2024-04-16,West,Office Chair,Furniture,3,7319.58,Credit Card,3.0,21958.74
+ORD1228,2024-04-16,North,Notebook,Stationery,1,123.55,Credit Card,3.0,123.55
+ORD1582,2024-04-16,East,Smartphone,Electronics,5,21567.47,Debit Card,4.0,107837.35
+ORD1196,2024-04-16,North,Notebook,Stationery,7,121.32,UPI,4.0,849.24
+ORD1254,2024-04-17,South,Headphones,Electronics,3,2268.66,Debit Card,5.0,6805.98
+ORD1272,2024-04-18,East,Laptop,Electronics,2,56558.26,Debit Card,5.0,113116.52
+ORD1832,2024-04-19,West,Office Chair,Furniture,6,7370.61,Debit Card,4.0,44223.66
+ORD1775,2024-04-20,North,Backpack,Accessories,7,1796.87,UPI,1.0,12578.09
+ORD1996,2024-04-20,East,Notebook,Stationery,6,110.29,UPI,4.0,661.74
+ORD1020,2024-04-20,South,Pen Set,Stationery,7,244.66,UPI,5.0,1712.62
+ORD1466,2024-04-20,West,Notebook,Stationery,1,122.87,UPI,5.0,122.87
+ORD1051,2024-04-20,South,Laptop,Electronics,2,50572.99,Debit Card,4.0,101145.98
+ORD1186,2024-04-21,South,Headphones,Electronics,7,2613.51,UPI,1.0,18294.57
+ORD1707,2024-04-21,South,Pen Set,Stationery,3,258.5,Credit Card,5.0,775.5
+ORD1088,2024-04-21,South,Smartphone,Electronics,1,22205.98,UPI,5.0,22205.98
+ORD1594,2024-04-21,West,Laptop,Electronics,6,49988.37,UPI,4.0,299930.22
+ORD1126,2024-04-22,South,Headphones,Electronics,2,2520.87,Credit Card,4.0,5041.74
+ORD1308,2024-04-22,South,Headphones,Electronics,1,2549.81,Cash,3.0,2549.81
+ORD1354,2024-04-23,West,Desk,Furniture,6,11989.18,Cash,5.0,71935.08
+ORD1780,2024-04-23,South,Headphones,Electronics,2,2292.49,UPI,5.0,4584.98
+ORD1807,2024-04-23,South,Smartphone,Electronics,7,22570.18,Credit Card,5.0,157991.26
+ORD1433,2024-04-25,West,Backpack,Accessories,4,1709.24,UPI,4.0,6836.96
+ORD1866,2024-04-25,South,Backpack,Accessories,6,1822.97,UPI,5.0,10937.82
+ORD1166,2024-04-25,West,Backpack,Accessories,6,1654.63,UPI,4.0,9927.78
+ORD1271,2024-04-26,West,Smartphone,Electronics,4,22416.96,Credit Card,5.0,89667.84
+ORD1015,2024-04-26,South,Headphones,Electronics,7,2604.47,Credit Card,3.0,18231.29
+ORD1270,2024-04-27,East,Laptop,Electronics,2,60056.49,Cash,5.0,120112.98
+ORD1129,2024-04-27,South,Notebook,Stationery,5,130.65,Cash,5.0,653.25
+ORD1151,2024-04-27,South,Backpack,Accessories,5,1835.47,Credit Card,,9177.35
+ORD1483,2024-04-27,South,Headphones,Electronics,6,2531.49,UPI,4.0,15188.94
+ORD1291,2024-04-27,South,Laptop,Electronics,7,57425.05,UPI,4.0,401975.35
+ORD1587,2024-04-27,South,Headphones,Electronics,7,2492.11,Cash,3.0,17444.77
+ORD1551,2024-04-27,North,Smartphone,Electronics,3,22234.07,Debit Card,2.0,66702.21
+ORD1927,2024-04-27,East,Backpack,Accessories,5,1918.31,Credit Card,5.0,9591.55
+ORD1525,2024-04-28,South,Headphones,Electronics,1,2466.16,Credit Card,5.0,2466.16
+ORD1082,2024-04-28,South,Backpack,Accessories,1,1857.35,Debit Card,4.0,1857.35
+ORD1282,2024-04-28,South,Headphones,Electronics,6,2387.82,Credit Card,5.0,14326.92
+ORD1091,2024-04-29,North,Pen Set,Stationery,3,270.8,Debit Card,5.0,812.4
+ORD1346,2024-04-29,South,Water Bottle,Accessories,4,635.46,Debit Card,5.0,2541.84
+ORD1536,2024-04-29,West,Notebook,Stationery,1,113.48,Debit Card,,113.48
+ORD1920,2024-04-29,North,Smartphone,Electronics,2,20758.48,UPI,4.0,41516.96
+ORD1306,2024-04-29,North,Office Chair,Furniture,3,6842.83,Credit Card,5.0,20528.49
+ORD1068,2024-04-30,South,Laptop,Electronics,1,57547.9,Cash,3.0,57547.9
+ORD1150,2024-04-30,South,Backpack,Accessories,2,1620.3,UPI,4.0,3240.6
+ORD1575,2024-04-30,East,Notebook,Stationery,4,117.29,UPI,2.0,469.16
+ORD1649,2024-05-01,North,Laptop,Electronics,7,58950.96,Credit Card,3.0,412656.72
+ORD1159,2024-05-02,North,Pen Set,Stationery,7,240.61,UPI,4.0,1684.27
+ORD1636,2024-05-02,South,Pen Set,Stationery,2,266.11,UPI,3.0,532.22
+ORD1366,2024-05-03,West,Pen Set,Stationery,1,259.7,Credit Card,4.0,259.7
+ORD1322,2024-05-03,East,Headphones,Electronics,5,2603.84,Credit Card,5.0,13019.2
+ORD1203,2024-05-03,East,Smartphone,Electronics,5,22657.33,Credit Card,4.0,113286.65
+ORD1460,2024-05-04,East,Notebook,Stationery,7,118.83,Credit Card,4.0,831.81
+ORD1490,2024-05-05,North,Pen Set,Stationery,4,254.41,Credit Card,4.0,1017.64
+ORD1073,2024-05-05,West,Headphones,Electronics,6,2611.78,UPI,4.0,15670.68
+ORD1739,2024-05-05,East,Office Chair,Furniture,1,7411.82,Credit Card,4.0,7411.82
+ORD1029,2024-05-05,South,Pen Set,Stationery,2,243.9,Cash,1.0,487.8
+ORD1326,2024-05-05,South,Backpack,Accessories,4,1766.34,UPI,4.0,7065.36
+ORD1484,2024-05-05,East,Laptop,Electronics,4,57199.79,Cash,,228799.16
+ORD1589,2024-05-06,South,Laptop,Electronics,6,52718.54,Cash,4.0,316311.24
+ORD1424,2024-05-07,South,Notebook,Stationery,3,111.7,Credit Card,5.0,335.1
+ORD1909,2024-05-07,West,Headphones,Electronics,4,2659.94,UPI,3.0,10639.76
+ORD1997,2024-05-07,North,Laptop,Electronics,7,54485.11,Credit Card,5.0,381395.77
+ORD1584,2024-05-08,East,Water Bottle,Accessories,4,649.82,Debit Card,5.0,2599.28
+ORD1281,2024-05-09,West,Smartphone,Electronics,6,19947.88,UPI,4.0,119687.28
+ORD1884,2024-05-10,North,Smartphone,Electronics,1,24087.54,Cash,4.0,24087.54
+ORD1489,2024-05-10,North,Notebook,Stationery,3,119.96,Credit Card,5.0,359.88
+ORD1561,2024-05-11,South,Headphones,Electronics,1,2501.97,UPI,4.0,2501.97
+ORD1758,2024-05-11,North,Laptop,Electronics,4,59706.33,UPI,3.0,238825.32
+ORD1849,2024-05-12,North,Water Bottle,Accessories,1,574.0,Debit Card,5.0,574.0
+ORD1440,2024-05-12,South,Backpack,Accessories,4,1715.05,UPI,2.0,6860.2
+ORD1144,2024-05-12,North,Desk,Furniture,5,12784.82,Credit Card,4.0,63924.1
+ORD1190,2024-05-12,West,Water Bottle,Accessories,6,563.4,UPI,4.0,3380.4
+ORD1485,2024-05-12,West,Office Chair,Furniture,2,7874.59,UPI,5.0,15749.18
+ORD1826,2024-05-12,North,Notebook,Stationery,2,114.5,,4.0,229.0
+ORD1052,2024-05-12,South,Pen Set,Stationery,7,257.42,Credit Card,4.0,1801.94
+ORD1892,2024-05-13,South,Headphones,Electronics,1,2507.93,Credit Card,4.0,2507.93
+ORD1200,2024-05-13,West,Pen Set,Stationery,4,263.08,UPI,3.0,1052.32
+ORD1762,2024-05-13,South,Laptop,Electronics,2,50472.29,Cash,5.0,100944.58
+ORD1278,2024-05-14,South,Backpack,Accessories,3,1736.58,UPI,3.0,5209.74
+ORD1355,2024-05-14,West,Notebook,Stationery,6,116.55,Debit Card,5.0,699.3
+ORD1055,2024-05-14,West,Pen Set,Stationery,7,249.78,Debit Card,3.0,1748.46
+ORD1695,2024-05-15,West,Notebook,Stationery,1,118.17,Debit Card,3.0,118.17
+ORD1406,2024-05-15,South,Headphones,Electronics,6,2507.95,Cash,4.0,15047.7
+ORD1586,2024-05-15,South,Smartphone,Electronics,2,21517.96,Credit Card,4.0,43035.92
+ORD1766,2024-05-15,West,Smartphone,Electronics,3,22055.23,Debit Card,4.0,66165.69
+ORD1414,2024-05-16,North,Laptop,Electronics,3,52794.64,UPI,5.0,158383.92
+ORD1653,2024-05-16,West,Headphones,Electronics,4,2351.57,UPI,4.0,9406.28
+ORD1679,2024-05-17,West,Headphones,Electronics,1,2276.67,Cash,4.0,2276.67
+ORD1723,2024-05-17,North,Water Bottle,Accessories,4,591.76,Credit Card,5.0,2367.04
+ORD1919,2024-05-18,West,Notebook,Stationery,7,118.33,Credit Card,3.0,828.31
+ORD1591,2024-05-18,West,Desk,Furniture,5,11587.37,Credit Card,5.0,57936.85
+ORD1568,2024-05-18,South,Headphones,Electronics,3,2668.6,Credit Card,3.0,8005.8
+ORD1543,2024-05-19,West,Water Bottle,Accessories,6,567.03,Credit Card,4.0,3402.18
+ORD1404,2024-05-20,East,Water Bottle,Accessories,1,645.36,Credit Card,4.0,645.36
+ORD1874,2024-05-20,South,Pen Set,Stationery,5,274.95,Credit Card,3.0,1374.75
+ORD1580,2024-05-20,South,Notebook,Stationery,4,126.38,Debit Card,4.0,505.52
+ORD1847,2024-05-21,West,Pen Set,Stationery,5,260.27,Debit Card,3.0,1301.35
+ORD1427,2024-05-21,East,Backpack,Accessories,1,1936.25,UPI,5.0,1936.25
+ORD1599,2024-05-22,South,Notebook,Stationery,6,118.52,UPI,4.0,711.12
+ORD1682,2024-05-22,West,Laptop,Electronics,3,54182.84,Debit Card,3.0,162548.52
+ORD1215,2024-05-22,West,Pen Set,Stationery,2,262.4,UPI,4.0,524.8
+ORD1834,2024-05-22,South,Pen Set,Stationery,2,239.52,UPI,4.0,479.04
+ORD1778,2024-05-22,West,Pen Set,Stationery,5,262.9,,5.0,1314.5
+ORD1383,2024-05-23,West,Desk,Furniture,3,12136.4,Credit Card,3.0,36409.2
+ORD1573,2024-05-23,West,Pen Set,Stationery,5,247.29,UPI,5.0,1236.45
+ORD1011,2024-05-23,North,Water Bottle,Accessories,1,646.72,UPI,4.0,646.72
+ORD1851,2024-05-23,West,Smartphone,Electronics,5,21021.87,Debit Card,5.0,105109.35
+ORD1621,2024-05-23,North,Desk,Furniture,1,11466.03,Cash,4.0,11466.03
+ORD1058,2024-05-24,East,Smartphone,Electronics,2,20748.51,UPI,,41497.02
+ORD1341,2024-05-24,East,Water Bottle,Accessories,5,638.61,UPI,1.0,3193.05
+ORD1290,2024-05-24,West,Backpack,Accessories,6,1746.99,UPI,4.0,10481.94
+ORD1545,2024-05-25,North,Desk,Furniture,7,11930.29,UPI,3.0,83512.03
+ORD1373,2024-05-25,West,Headphones,Electronics,2,2331.59,UPI,4.0,4663.18
+ORD1799,2024-05-25,West,Pen Set,Stationery,3,238.67,Debit Card,4.0,716.01
+ORD1002,2024-05-25,South,Backpack,Accessories,5,1708.15,Cash,5.0,8540.75
+ORD1139,2024-05-26,West,Smartphone,Electronics,7,21456.77,Debit Card,,150197.39
+ORD1523,2024-05-26,South,Notebook,Stationery,7,117.14,Cash,4.0,819.98
+ORD1133,2024-05-26,East,Headphones,Electronics,1,2271.48,Credit Card,4.0,2271.48
+ORD1224,2024-05-26,South,Headphones,Electronics,4,2319.5,UPI,4.0,9278.0
+ORD1162,2024-05-27,West,Headphones,Electronics,3,2321.29,Cash,2.0,6963.87
+ORD1059,2024-05-27,West,Smartphone,Electronics,5,20987.56,Debit Card,,104937.8
+ORD1072,2024-05-27,East,Backpack,Accessories,2,1913.67,Credit Card,4.0,3827.34
+ORD1745,2024-05-28,North,Desk,Furniture,1,12520.85,UPI,2.0,12520.85
+ORD1914,2024-05-29,South,Water Bottle,Accessories,4,587.51,UPI,3.0,2350.04
+ORD1563,2024-05-29,North,Notebook,Stationery,1,112.43,Debit Card,3.0,112.43
+ORD1508,2024-05-29,North,Notebook,Stationery,4,124.35,Debit Card,5.0,497.4
+ORD1075,2024-05-29,South,Headphones,Electronics,3,2703.4,Credit Card,3.0,8110.2
+ORD1191,2024-05-30,West,Headphones,Electronics,7,2263.43,Debit Card,4.0,15844.01
+ORD1356,2024-05-30,South,Pen Set,Stationery,5,253.03,Cash,4.0,1265.15
+ORD1472,2024-05-31,West,Smartphone,Electronics,6,22230.26,Credit Card,5.0,133381.56
+ORD1748,2024-05-31,South,Pen Set,Stationery,7,240.48,Cash,5.0,1683.36
+ORD1016,2024-05-31,North,Notebook,Stationery,1,130.76,UPI,4.0,130.76
+ORD1289,2024-06-01,North,Smartphone,Electronics,3,21706.85,Credit Card,4.0,65120.55
+ORD1697,2024-06-01,South,Notebook,Stationery,6,109.14,Credit Card,5.0,654.84
+ORD1419,2024-06-02,West,Water Bottle,Accessories,5,642.03,,4.0,3210.15
+ORD1494,2024-06-02,South,Pen Set,Stationery,6,231.46,UPI,,1388.76
+ORD1069,2024-06-02,South,Office Chair,Furniture,7,7422.69,UPI,,51958.83
+ORD1223,2024-06-03,East,Water Bottle,Accessories,6,623.47,UPI,2.0,3740.82
+ORD1340,2024-06-03,North,Smartphone,Electronics,3,21296.61,UPI,4.0,63889.83
+ORD1475,2024-06-03,North,Headphones,Electronics,4,2466.17,Debit Card,2.0,9864.68
+ORD1924,2024-06-03,West,Smartphone,Electronics,7,20712.35,Credit Card,4.0,144986.45
+ORD1249,2024-06-03,South,Office Chair,Furniture,4,7458.86,Debit Card,5.0,29835.44
+ORD1961,2024-06-03,East,Office Chair,Furniture,5,6944.59,UPI,3.0,34722.95
+ORD1275,2024-06-04,East,Office Chair,Furniture,2,7979.72,UPI,5.0,15959.44
+ORD1693,2024-06-04,North,Headphones,Electronics,2,2521.27,Cash,5.0,5042.54
+ORD1989,2024-06-05,East,Pen Set,Stationery,4,274.81,UPI,4.0,1099.24
+ORD1565,2024-06-06,West,Pen Set,Stationery,5,265.61,Debit Card,3.0,1328.05
+ORD1761,2024-06-06,West,Smartphone,Electronics,2,21238.45,Credit Card,5.0,42476.9
+ORD1759,2024-06-06,South,Desk,Furniture,1,11196.19,Cash,2.0,11196.19
+ORD1716,2024-06-07,North,Notebook,Stationery,2,125.53,UPI,5.0,251.06
+ORD1006,2024-06-07,West,Pen Set,Stationery,4,254.5,Credit Card,5.0,1018.0
+ORD1933,2024-06-08,South,Pen Set,Stationery,3,226.8,UPI,3.0,680.4
+ORD1317,2024-06-08,South,Pen Set,Stationery,1,230.09,Debit Card,5.0,230.09
+ORD1998,2024-06-08,West,Water Bottle,Accessories,6,580.76,UPI,5.0,3484.56
+ORD1660,2024-06-08,South,Headphones,Electronics,1,2356.34,Debit Card,4.0,2356.34
+ORD1953,2024-06-08,West,Smartphone,Electronics,5,22945.63,Cash,1.0,114728.15
+ORD1915,2024-06-09,North,Water Bottle,Accessories,1,576.59,Debit Card,4.0,576.59
+ORD1564,2024-06-09,South,Notebook,Stationery,1,131.36,UPI,5.0,131.36
+ORD1840,2024-06-09,North,Laptop,Electronics,6,57008.16,Cash,,342048.96
+ORD1134,2024-06-10,West,Notebook,Stationery,6,125.31,Credit Card,5.0,751.86
+ORD1077,2024-06-10,West,Pen Set,Stationery,1,255.55,Credit Card,3.0,255.55
+ORD1520,2024-06-10,East,Backpack,Accessories,4,1807.51,UPI,4.0,7230.04
+ORD1156,2024-06-11,South,Headphones,Electronics,7,2285.12,Cash,4.0,15995.84
+ORD1145,2024-06-11,South,Headphones,Electronics,6,2569.75,UPI,5.0,15418.5
+ORD1801,2024-06-11,West,Headphones,Electronics,3,2353.31,UPI,4.0,7059.93
+ORD1734,2024-06-12,West,Laptop,Electronics,5,51340.2,Cash,3.0,256701.0
+ORD1859,2024-06-12,North,Notebook,Stationery,5,109.95,UPI,3.0,549.75
+ORD1039,2024-06-13,South,Pen Set,Stationery,2,256.78,Debit Card,5.0,513.56
+ORD1381,2024-06-13,East,Water Bottle,Accessories,7,643.95,UPI,4.0,4507.65
+ORD1434,2024-06-13,East,Laptop,Electronics,4,50335.43,Credit Card,5.0,201341.72
+ORD1216,2024-06-13,South,Smartphone,Electronics,6,21361.13,Debit Card,4.0,128166.78
+ORD1577,2024-06-14,North,Notebook,Stationery,7,114.16,UPI,4.0,799.12
+ORD1242,2024-06-14,North,Headphones,Electronics,7,2709.58,Credit Card,4.0,18967.06
+ORD1644,2024-06-14,South,Notebook,Stationery,5,109.24,UPI,4.0,546.2
+ORD1046,2024-06-14,South,Office Chair,Furniture,6,7441.47,UPI,3.0,44648.82
+ORD1990,2024-06-15,West,Notebook,Stationery,1,131.51,,2.0,131.51
+ORD1390,2024-06-15,South,Notebook,Stationery,2,111.32,UPI,4.0,222.64
+ORD1204,2024-06-15,South,Laptop,Electronics,4,59710.63,Debit Card,3.0,238842.52
+ORD1336,2024-06-15,North,Smartphone,Electronics,6,22108.54,UPI,4.0,132651.24
+ORD1003,2024-06-16,South,Pen Set,Stationery,5,262.28,UPI,3.0,1311.4
+ORD1845,2024-06-16,North,Backpack,Accessories,2,1803.0,UPI,5.0,3606.0
+ORD1179,2024-06-16,East,Pen Set,Stationery,3,250.36,Cash,4.0,751.08
+ORD1844,2024-06-16,West,Smartphone,Electronics,7,24020.05,UPI,4.0,168140.35
+ORD1729,2024-06-17,East,Notebook,Stationery,3,126.17,Credit Card,3.0,378.51
+ORD1019,2024-06-17,North,Notebook,Stationery,5,113.63,Debit Card,4.0,568.15
+ORD1506,2024-06-17,South,Headphones,Electronics,1,2498.28,Credit Card,3.0,2498.28
+ORD1273,2024-06-17,West,Notebook,Stationery,4,125.04,Cash,5.0,500.16
+ORD1408,2024-06-18,West,Smartphone,Electronics,4,22026.29,Cash,3.0,88105.16
+ORD1464,2024-06-18,West,Notebook,Stationery,2,126.03,,2.0,252.06
+ORD1188,2024-06-18,East,Pen Set,Stationery,6,232.16,UPI,5.0,1392.96
+ORD1076,2024-06-18,West,Headphones,Electronics,3,2418.74,Credit Card,4.0,7256.22
+ORD1581,2024-06-18,North,Notebook,Stationery,6,127.01,Debit Card,4.0,762.06
+ORD1715,2024-06-18,North,Smartphone,Electronics,4,23462.41,UPI,3.0,93849.64
+ORD1353,2024-06-19,West,Notebook,Stationery,4,115.89,UPI,4.0,463.56
+ORD1643,2024-06-19,West,Headphones,Electronics,5,2338.23,UPI,4.0,11691.15
+ORD1975,2024-06-20,North,Notebook,Stationery,4,112.86,Credit Card,3.0,451.44
+ORD1526,2024-06-20,West,Water Bottle,Accessories,5,553.03,,4.0,2765.15
+ORD1453,2024-06-21,West,Smartphone,Electronics,6,19954.4,Debit Card,3.0,119726.4
+ORD1548,2024-06-21,North,Pen Set,Stationery,2,230.72,Debit Card,4.0,461.44
+ORD1912,2024-06-21,South,Water Bottle,Accessories,5,643.85,UPI,4.0,3219.25
+ORD1462,2024-06-22,East,Water Bottle,Accessories,5,540.81,UPI,2.0,2704.05
+ORD1394,2024-06-22,South,Laptop,Electronics,4,57644.9,UPI,4.0,230579.6
+ORD1025,2024-06-22,North,Smartphone,Electronics,1,20421.67,Cash,4.0,20421.67
+ORD1458,2024-06-22,West,Pen Set,Stationery,4,226.02,UPI,3.0,904.08
+ORD1979,2024-06-23,West,Smartphone,Electronics,5,22667.99,Cash,4.0,113339.95
+ORD1455,2024-06-23,West,Smartphone,Electronics,1,23242.05,UPI,4.0,23242.05
+ORD1959,2024-06-23,East,Notebook,Stationery,7,117.5,Debit Card,4.0,822.5
+ORD1238,2024-06-23,East,Laptop,Electronics,7,53407.25,Credit Card,4.0,373850.75
+ORD1768,2024-06-24,West,Smartphone,Electronics,4,22713.02,UPI,4.0,90852.08
+ORD1177,2024-06-24,South,Water Bottle,Accessories,4,583.76,Cash,1.0,2335.04
+ORD1685,2024-06-25,North,Headphones,Electronics,4,2297.28,UPI,1.0,9189.12
+ORD1843,2024-06-25,South,Office Chair,Furniture,1,7662.19,Credit Card,4.0,7662.19
+ORD1415,2024-06-26,North,Headphones,Electronics,2,2366.04,Debit Card,4.0,4732.08
+ORD1957,2024-06-26,North,Notebook,Stationery,6,130.73,UPI,,784.38
+ORD1297,2024-06-28,South,Backpack,Accessories,5,1798.91,Credit Card,3.0,8994.55
+ORD1155,2024-06-28,South,Pen Set,Stationery,7,241.59,UPI,,1691.13
+ORD1976,2024-06-29,North,Desk,Furniture,7,10931.46,Credit Card,5.0,76520.22
+ORD1738,2024-06-29,South,Office Chair,Furniture,2,7943.69,UPI,5.0,15887.38
+ORD1539,2024-06-29,West,Backpack,Accessories,7,1729.29,UPI,1.0,12105.03
+ORD1010,2024-06-30,North,Headphones,Electronics,6,2396.47,UPI,3.0,14378.82
+ORD1663,2024-06-30,South,Smartphone,Electronics,4,22789.58,UPI,3.0,91158.32
+ORD1641,2024-06-30,South,Backpack,Accessories,3,1630.88,UPI,5.0,4892.64
+ORD1537,2024-07-01,North,Smartphone,Electronics,6,22405.58,Cash,4.0,134433.48
+ORD1947,2024-07-01,South,Backpack,Accessories,7,1652.81,Debit Card,4.0,11569.67
+ORD1253,2024-07-02,West,Headphones,Electronics,4,2494.49,Credit Card,5.0,9977.96
+ORD1596,2024-07-02,North,Pen Set,Stationery,4,268.47,Credit Card,5.0,1073.88
+ORD1684,2024-07-03,East,Notebook,Stationery,4,112.43,Cash,4.0,449.72
+ORD1349,2024-07-03,West,Smartphone,Electronics,5,21527.92,Debit Card,3.0,107639.6
+ORD1900,2024-07-04,East,Desk,Furniture,7,11144.04,Credit Card,5.0,78008.28
+ORD1714,2024-07-04,West,Pen Set,Stationery,7,267.61,Credit Card,2.0,1873.27
+ORD1951,2024-07-04,West,Headphones,Electronics,6,2729.51,Debit Card,4.0,16377.06
+ORD1250,2024-07-04,East,Notebook,Stationery,2,131.31,UPI,4.0,262.62
+ORD1065,2024-07-05,South,Notebook,Stationery,5,118.7,Debit Card,4.0,593.5
+ORD1312,2024-07-05,West,Headphones,Electronics,2,2523.03,UPI,4.0,5046.06
+ORD1742,2024-07-06,South,Backpack,Accessories,7,1928.34,Debit Card,,13498.38
+ORD1810,2024-07-06,West,Laptop,Electronics,5,55745.32,Credit Card,4.0,278726.6
+ORD1958,2024-07-06,South,Notebook,Stationery,5,110.54,UPI,4.0,552.7
+ORD1875,2024-07-07,North,Backpack,Accessories,1,1768.43,Credit Card,4.0,1768.43
+ORD1263,2024-07-08,North,Smartphone,Electronics,4,21899.16,Debit Card,5.0,87596.64
+ORD1476,2024-07-09,South,Office Chair,Furniture,2,7990.07,Credit Card,3.0,15980.14
+ORD1949,2024-07-09,East,Headphones,Electronics,4,2397.66,Debit Card,4.0,9590.64
+ORD1132,2024-07-09,East,Notebook,Stationery,4,110.36,Credit Card,3.0,441.44
+ORD1713,2024-07-09,South,Water Bottle,Accessories,5,630.52,Cash,4.0,3152.6
+ORD1731,2024-07-10,East,Laptop,Electronics,1,59475.93,Cash,5.0,59475.93
+ORD1431,2024-07-10,East,Pen Set,Stationery,2,252.88,Cash,4.0,505.76
+ORD1776,2024-07-10,East,Notebook,Stationery,3,124.91,Credit Card,5.0,374.73
+ORD1517,2024-07-11,North,Pen Set,Stationery,5,233.61,UPI,3.0,1168.05
+ORD1028,2024-07-11,North,Smartphone,Electronics,5,22450.63,Credit Card,4.0,112253.15
+ORD1488,2024-07-11,West,Notebook,Stationery,7,113.01,UPI,4.0,791.07
+ORD1608,2024-07-11,South,Pen Set,Stationery,5,234.95,UPI,4.0,1174.75
+ORD1948,2024-07-13,East,Backpack,Accessories,7,1935.27,Debit Card,,13546.89
+ORD1538,2024-07-13,East,Smartphone,Electronics,6,20479.56,UPI,4.0,122877.36
+ORD1410,2024-07-13,North,Pen Set,Stationery,1,257.94,UPI,3.0,257.94
+ORD1047,2024-07-13,West,Headphones,Electronics,5,2571.26,UPI,5.0,12856.3
+ORD1606,2024-07-13,East,Backpack,Accessories,4,1671.55,Cash,2.0,6686.2
+ORD1592,2024-07-13,East,Headphones,Electronics,4,2653.0,Debit Card,4.0,10612.0
+ORD1309,2024-07-14,North,Smartphone,Electronics,4,20114.88,Credit Card,3.0,80459.52
+ORD1765,2024-07-14,North,Laptop,Electronics,4,58190.33,UPI,,232761.32
+ORD1793,2024-07-14,South,Laptop,Electronics,7,51188.74,Cash,2.0,358321.18
+ORD1665,2024-07-15,South,Pen Set,Stationery,4,245.99,Credit Card,4.0,983.96
+ORD1895,2024-07-15,West,Backpack,Accessories,6,1843.23,Credit Card,5.0,11059.38
+ORD1350,2024-07-16,South,Notebook,Stationery,2,108.79,UPI,5.0,217.58
+ORD1138,2024-07-16,South,Pen Set,Stationery,1,263.85,Debit Card,3.0,263.85
+ORD1923,2024-07-16,North,Notebook,Stationery,7,130.15,Cash,4.0,911.05
+ORD1335,2024-07-16,North,Notebook,Stationery,1,116.43,UPI,5.0,116.43
+ORD1820,2024-07-16,North,Laptop,Electronics,5,57953.69,Debit Card,4.0,289768.45
+ORD1835,2024-07-17,East,Notebook,Stationery,6,118.56,Debit Card,2.0,711.36
+ORD1117,2024-07-17,East,Pen Set,Stationery,4,258.67,Cash,5.0,1034.68
+ORD1118,2024-07-18,West,Office Chair,Furniture,7,7155.92,UPI,2.0,50091.44
+ORD1833,2024-07-18,North,Pen Set,Stationery,2,248.51,Debit Card,,497.02
+ORD1774,2024-07-18,West,Laptop,Electronics,4,58216.68,UPI,3.0,232866.72
+ORD1342,2024-07-18,North,Backpack,Accessories,4,1676.74,Credit Card,5.0,6706.96
+ORD1136,2024-07-18,South,Water Bottle,Accessories,4,641.17,Credit Card,2.0,2564.68
+ORD1153,2024-07-18,North,Notebook,Stationery,5,110.97,Credit Card,3.0,554.85
+ORD1403,2024-07-20,North,Smartphone,Electronics,4,23791.67,UPI,3.0,95166.68
+ORD1585,2024-07-21,South,Notebook,Stationery,6,127.22,Debit Card,5.0,763.32
+ORD1251,2024-07-21,North,Backpack,Accessories,3,1819.08,UPI,2.0,5457.24
+ORD1334,2024-07-21,North,Smartphone,Electronics,5,21413.43,Debit Card,4.0,107067.15
+ORD1030,2024-07-22,South,Pen Set,Stationery,3,264.5,Credit Card,1.0,793.5
+ORD1633,2024-07-24,West,Headphones,Electronics,2,2457.84,UPI,2.0,4915.68
+ORD1603,2024-07-24,West,Pen Set,Stationery,4,236.0,Debit Card,5.0,944.0
+ORD1425,2024-07-24,North,Backpack,Accessories,2,1810.32,UPI,4.0,3620.64
+ORD1061,2024-07-24,East,Desk,Furniture,5,11860.56,Debit Card,3.0,59302.8
+ORD1882,2024-07-25,North,Water Bottle,Accessories,6,625.55,Credit Card,5.0,3753.3
+ORD1435,2024-07-25,North,Smartphone,Electronics,7,22272.54,Credit Card,2.0,155907.78
+ORD1687,2024-07-25,East,Water Bottle,Accessories,2,654.27,Credit Card,3.0,1308.54
+ORD1655,2024-07-25,West,Headphones,Electronics,2,2291.47,Cash,3.0,4582.94
+ORD1797,2024-07-26,North,Smartphone,Electronics,5,23224.79,Credit Card,5.0,116123.95
+ORD1646,2024-07-26,North,Laptop,Electronics,7,53350.48,Cash,4.0,373453.36
+ORD1579,2024-07-26,North,Headphones,Electronics,3,2286.86,UPI,5.0,6860.58
+ORD1401,2024-07-26,North,Water Bottle,Accessories,5,640.13,Debit Card,3.0,3200.65
+ORD1856,2024-07-26,South,Pen Set,Stationery,4,265.21,Credit Card,4.0,1060.84
+ORD1302,2024-07-27,North,Notebook,Stationery,2,114.14,Cash,5.0,228.28
+ORD1891,2024-07-27,West,Water Bottle,Accessories,3,619.6,UPI,4.0,1858.8
+ORD1198,2024-07-27,West,Smartphone,Electronics,4,20478.94,UPI,5.0,81915.76
+ORD1246,2024-07-29,West,Notebook,Stationery,5,116.29,Cash,4.0,581.45
+ORD1736,2024-07-29,North,Smartphone,Electronics,3,20922.08,Debit Card,4.0,62766.24
+ORD1529,2024-07-30,East,Headphones,Electronics,1,2492.19,Credit Card,5.0,2492.19
+ORD1560,2024-07-30,West,Smartphone,Electronics,4,22928.71,Cash,5.0,91714.84
+ORD1625,2024-07-30,South,Office Chair,Furniture,5,7590.98,Credit Card,4.0,37954.9
+ORD1728,2024-07-31,North,Desk,Furniture,3,12503.09,Credit Card,5.0,37509.27
+ORD1718,2024-07-31,West,Notebook,Stationery,1,130.43,Credit Card,2.0,130.43
+ORD1678,2024-07-31,South,Smartphone,Electronics,5,21023.91,UPI,5.0,105119.55
+ORD1036,2024-08-01,West,Smartphone,Electronics,7,22518.26,UPI,5.0,157627.82
+ORD1122,2024-08-01,West,Smartphone,Electronics,5,21257.5,Cash,4.0,106287.5
+ORD1752,2024-08-01,South,Headphones,Electronics,1,2475.37,UPI,5.0,2475.37
+ORD1189,2024-08-02,South,Headphones,Electronics,3,2394.16,Credit Card,4.0,7182.48
+ORD1463,2024-08-02,North,Headphones,Electronics,3,2394.1,Cash,5.0,7182.3
+ORD1547,2024-08-02,East,Smartphone,Electronics,1,24189.65,UPI,4.0,24189.65
+ORD1946,2024-08-03,North,Pen Set,Stationery,2,235.49,Credit Card,2.0,470.98
+ORD1064,2024-08-03,West,Notebook,Stationery,4,116.97,UPI,5.0,467.88
+ORD1344,2024-08-03,North,Pen Set,Stationery,2,250.15,Debit Card,3.0,500.3
+ORD1559,2024-08-03,North,Notebook,Stationery,1,120.34,Debit Card,3.0,120.34
+ORD1234,2024-08-03,West,Water Bottle,Accessories,3,559.71,UPI,5.0,1679.13
+ORD1965,2024-08-05,West,Desk,Furniture,1,11016.86,UPI,3.0,11016.86
+ORD1675,2024-08-05,East,Office Chair,Furniture,2,8067.47,UPI,5.0,16134.94
+ORD1972,2024-08-06,West,Smartphone,Electronics,4,22096.3,UPI,4.0,88385.2
+ORD1444,2024-08-06,West,Headphones,Electronics,2,2689.48,UPI,5.0,5378.96
+ORD1613,2024-08-06,East,Water Bottle,Accessories,3,646.83,Credit Card,4.0,1940.49
+ORD1023,2024-08-07,West,Backpack,Accessories,3,1825.46,Cash,4.0,5476.38
+ORD1413,2024-08-08,East,Backpack,Accessories,7,1639.58,UPI,3.0,11477.06
+ORD1212,2024-08-09,West,Smartphone,Electronics,4,23278.85,Credit Card,5.0,93115.4
+ORD1182,2024-08-09,West,Notebook,Stationery,5,119.8,Debit Card,1.0,599.0
+ORD1691,2024-08-10,East,Backpack,Accessories,5,1836.1,UPI,,9180.5
+ORD1143,2024-08-11,North,Notebook,Stationery,4,109.53,UPI,5.0,438.12
+ORD1970,2024-08-11,South,Headphones,Electronics,6,2726.92,Credit Card,4.0,16361.52
+ORD1123,2024-08-11,North,Office Chair,Furniture,5,7431.27,UPI,4.0,37156.35
+ORD1493,2024-08-11,North,Headphones,Electronics,2,2555.01,UPI,4.0,5110.02
+ORD1863,2024-08-12,West,Notebook,Stationery,2,116.25,Debit Card,5.0,232.5
+ORD1026,2024-08-12,South,Desk,Furniture,2,11440.64,Debit Card,4.0,22881.28
+ORD1926,2024-08-13,North,Smartphone,Electronics,6,22161.11,UPI,5.0,132966.66
+ORD1628,2024-08-13,North,Notebook,Stationery,4,123.43,UPI,2.0,493.72
+ORD1392,2024-08-13,East,Notebook,Stationery,6,131.38,,5.0,788.28
+ORD1225,2024-08-14,North,Water Bottle,Accessories,4,636.94,Cash,4.0,2547.76
+ORD1725,2024-08-14,South,Laptop,Electronics,3,58292.9,UPI,5.0,174878.7
+ORD1507,2024-08-14,North,Backpack,Accessories,1,1911.58,UPI,4.0,1911.58
+ORD1824,2024-08-14,South,Backpack,Accessories,4,1880.26,Credit Card,4.0,7521.04
+ORD1903,2024-08-14,West,Desk,Furniture,6,12072.83,Cash,5.0,72436.98
+ORD1416,2024-08-14,East,Smartphone,Electronics,3,22528.14,Credit Card,1.0,67584.42
+ORD1916,2024-08-15,South,Laptop,Electronics,3,55205.72,Debit Card,5.0,165617.16
+ORD1358,2024-08-16,South,Notebook,Stationery,1,124.27,Credit Card,4.0,124.27
+ORD1906,2024-08-16,East,Notebook,Stationery,4,127.51,Cash,,510.04
+ORD1127,2024-08-16,North,Smartphone,Electronics,4,20367.06,Credit Card,3.0,81468.24
+ORD1828,2024-08-17,East,Backpack,Accessories,1,1956.82,Debit Card,4.0,1956.82
+ORD1897,2024-08-17,North,Smartphone,Electronics,7,21560.29,Credit Card,5.0,150922.03
+ORD1178,2024-08-17,West,Backpack,Accessories,1,1621.57,Debit Card,4.0,1621.57
+ORD1720,2024-08-17,South,Notebook,Stationery,7,123.32,Credit Card,5.0,863.24
+ORD1995,2024-08-18,East,Office Chair,Furniture,2,6771.19,UPI,4.0,13542.38
+ORD1184,2024-08-19,North,Pen Set,Stationery,6,227.88,Cash,2.0,1367.28
+ORD1230,2024-08-19,West,Smartphone,Electronics,1,21733.14,Cash,5.0,21733.14
+ORD1567,2024-08-19,West,Laptop,Electronics,3,54811.99,UPI,3.0,164435.97
+ORD1157,2024-08-19,West,Notebook,Stationery,1,109.37,UPI,4.0,109.37
+ORD1009,2024-08-19,West,Desk,Furniture,2,12602.01,Credit Card,,25204.02
+ORD1757,2024-08-20,West,Water Bottle,Accessories,4,573.38,Cash,4.0,2293.52
+ORD1969,2024-08-21,South,Smartphone,Electronics,1,20430.71,Credit Card,5.0,20430.71
+ORD1688,2024-08-21,South,Pen Set,Stationery,6,255.76,Cash,5.0,1534.56
+ORD1991,2024-08-21,South,Pen Set,Stationery,4,246.15,Cash,4.0,984.6
+ORD1436,2024-08-22,South,Smartphone,Electronics,3,21246.66,Debit Card,5.0,63739.98
+ORD1447,2024-08-24,West,Notebook,Stationery,3,126.16,,4.0,378.48
+ORD1071,2024-08-24,East,Office Chair,Furniture,5,8196.02,Credit Card,4.0,40980.1
+ORD1183,2024-08-24,South,Headphones,Electronics,7,2336.89,Credit Card,4.0,16358.23
+ORD1014,2024-08-25,West,Desk,Furniture,5,11468.65,Credit Card,3.0,57343.25
+ORD1360,2024-08-25,East,Water Bottle,Accessories,5,578.17,UPI,4.0,2890.85
+ORD1985,2024-08-25,South,Water Bottle,Accessories,3,548.62,UPI,4.0,1645.86
+ORD1904,2024-08-26,West,Water Bottle,Accessories,2,584.92,Debit Card,4.0,1169.84
+ORD1257,2024-08-26,West,Smartphone,Electronics,3,21158.49,Credit Card,4.0,63475.47
+ORD1323,2024-08-26,East,Notebook,Stationery,3,127.23,UPI,1.0,381.69
+ORD1753,2024-08-26,East,Desk,Furniture,2,12603.15,Credit Card,5.0,25206.3
+ORD1480,2024-08-26,West,Office Chair,Furniture,7,7413.22,Credit Card,1.0,51892.54
+ORD1379,2024-08-27,East,Pen Set,Stationery,4,272.71,UPI,,1090.84
+ORD1550,2024-08-27,West,Desk,Furniture,5,12872.84,UPI,3.0,64364.2
+ORD1929,2024-08-27,West,Pen Set,Stationery,2,270.5,UPI,1.0,541.0
+ORD1085,2024-08-27,West,Smartphone,Electronics,3,21191.61,Cash,4.0,63574.83
+ORD1395,2024-08-28,North,Desk,Furniture,1,13024.63,Credit Card,4.0,13024.63
+ORD1618,2024-08-28,North,Smartphone,Electronics,7,21210.57,Credit Card,,148473.99
+ORD1194,2024-08-28,East,Smartphone,Electronics,3,22650.66,UPI,5.0,67951.98
+ORD1022,2024-08-28,West,Water Bottle,Accessories,5,596.91,UPI,5.0,2984.55
+ORD1770,2024-08-29,East,Headphones,Electronics,3,2719.94,Credit Card,5.0,8159.82
+ORD1583,2024-08-29,North,Office Chair,Furniture,1,7833.72,Cash,5.0,7833.72
+ORD1021,2024-08-29,East,Headphones,Electronics,4,2621.17,UPI,5.0,10484.68
+ORD1896,2024-08-29,South,Headphones,Electronics,1,2405.53,UPI,2.0,2405.53
+ORD1049,2024-08-29,South,Smartphone,Electronics,7,20894.17,Debit Card,5.0,146259.19
+ORD1999,2024-08-30,South,Headphones,Electronics,1,2340.18,Credit Card,5.0,2340.18
+ORD1241,2024-08-30,South,Pen Set,Stationery,7,253.15,Debit Card,3.0,1772.05
+ORD1087,2024-08-30,East,Desk,Furniture,2,11888.67,Credit Card,4.0,23777.34
+ORD1876,2024-08-31,West,Office Chair,Furniture,7,6752.89,UPI,4.0,47270.23
+ORD1562,2024-09-01,South,Backpack,Accessories,6,1945.62,UPI,2.0,11673.72
+ORD1615,2024-09-01,West,Pen Set,Stationery,6,259.73,UPI,3.0,1558.38
+ORD1101,2024-09-01,North,Pen Set,Stationery,4,234.77,Debit Card,3.0,939.08
+ORD1721,2024-09-01,South,Office Chair,Furniture,3,7522.41,Credit Card,2.0,22567.23
+ORD1083,2024-09-01,South,Smartphone,Electronics,4,23236.04,UPI,2.0,92944.16
+ORD1658,2024-09-02,South,Notebook,Stationery,4,129.11,Credit Card,3.0,516.44
+ORD1816,2024-09-03,North,Backpack,Accessories,3,1774.01,UPI,4.0,5322.03
+ORD1931,2024-09-03,East,Headphones,Electronics,4,2543.05,Credit Card,3.0,10172.2
+ORD1279,2024-09-03,South,Backpack,Accessories,2,1657.89,Debit Card,5.0,3315.78
+ORD1111,2024-09-03,West,Smartphone,Electronics,5,20922.82,Debit Card,4.0,104614.1
+ORD1437,2024-09-04,East,Notebook,Stationery,1,115.74,UPI,3.0,115.74
+ORD1033,2024-09-05,East,Headphones,Electronics,2,2365.05,Credit Card,4.0,4730.1
+ORD1467,2024-09-05,West,Water Bottle,Accessories,3,576.15,Debit Card,3.0,1728.45
+ORD1284,2024-09-06,South,Notebook,Stationery,7,112.58,Cash,3.0,788.06
+ORD1631,2024-09-06,West,Backpack,Accessories,4,1967.45,Credit Card,3.0,7869.8
+ORD1135,2024-09-07,South,Laptop,Electronics,1,57871.24,UPI,4.0,57871.24
+ORD1266,2024-09-07,West,Headphones,Electronics,4,2344.39,Credit Card,4.0,9377.56
+ORD1255,2024-09-08,East,Pen Set,Stationery,3,265.2,UPI,5.0,795.6
+ORD1717,2024-09-09,West,Smartphone,Electronics,6,23327.93,Credit Card,5.0,139967.58
+ORD1516,2024-09-10,South,Headphones,Electronics,4,2554.71,Credit Card,3.0,10218.84
+ORD1074,2024-09-11,North,Laptop,Electronics,2,59060.01,UPI,5.0,118120.02
+ORD1374,2024-09-12,West,Smartphone,Electronics,6,22031.89,Credit Card,4.0,132191.34
+ORD1500,2024-09-12,West,Pen Set,Stationery,7,245.7,UPI,3.0,1719.9
+ORD1180,2024-09-13,West,Backpack,Accessories,6,1957.33,Debit Card,4.0,11743.98
+ORD1210,2024-09-13,West,Pen Set,Stationery,1,242.59,Debit Card,4.0,242.59
+ORD1140,2024-09-13,West,Desk,Furniture,3,11528.01,UPI,4.0,34584.03
+ORD1119,2024-09-13,North,Notebook,Stationery,1,114.55,Credit Card,,114.55
+ORD1154,2024-09-14,West,Smartphone,Electronics,6,20619.01,Credit Card,2.0,123714.06
+ORD1841,2024-09-14,North,Pen Set,Stationery,7,257.14,Credit Card,4.0,1799.98
+ORD1773,2024-09-15,West,Backpack,Accessories,1,1914.41,,4.0,1914.41
+ORD1706,2024-09-15,East,Pen Set,Stationery,3,241.56,UPI,5.0,724.68
+ORD1819,2024-09-16,West,Headphones,Electronics,4,2670.47,Credit Card,,10681.88
+ORD1798,2024-09-16,North,Pen Set,Stationery,4,245.76,Debit Card,4.0,983.04
+ORD1407,2024-09-17,North,Backpack,Accessories,6,1710.62,UPI,3.0,10263.72
+ORD1244,2024-09-17,East,Notebook,Stationery,3,110.76,Debit Card,4.0,332.28
+ORD1352,2024-09-18,South,Notebook,Stationery,1,108.93,Debit Card,4.0,108.93
+ORD1294,2024-09-18,West,Backpack,Accessories,7,1795.31,Debit Card,5.0,12567.17
+ORD1054,2024-09-18,South,Pen Set,Stationery,1,255.73,Debit Card,5.0,255.73
+ORD1940,2024-09-18,West,Headphones,Electronics,2,2286.52,Cash,4.0,4573.04
+ORD1980,2024-09-19,South,Water Bottle,Accessories,5,550.48,Cash,4.0,2752.4
+ORD1130,2024-09-19,South,Smartphone,Electronics,3,21677.9,Debit Card,3.0,65033.7
+ORD1968,2024-09-20,East,Notebook,Stationery,2,118.37,UPI,4.0,236.74
+ORD1984,2024-09-20,West,Smartphone,Electronics,1,21437.15,UPI,4.0,21437.15
+ORD1063,2024-09-20,West,Pen Set,Stationery,5,269.14,Credit Card,3.0,1345.7
+ORD1018,2024-09-20,North,Backpack,Accessories,6,1737.42,UPI,4.0,10424.52
+ORD1854,2024-09-21,South,Smartphone,Electronics,3,22457.0,UPI,1.0,67371.0
+ORD1937,2024-09-21,East,Smartphone,Electronics,5,22656.05,Debit Card,4.0,113280.25
+ORD1792,2024-09-21,East,Headphones,Electronics,3,2261.65,UPI,3.0,6784.95
+ORD1597,2024-09-21,South,Notebook,Stationery,5,129.19,UPI,4.0,645.95
+ORD1066,2024-09-22,North,Notebook,Stationery,4,117.83,UPI,4.0,471.32
+ORD1858,2024-09-22,West,Headphones,Electronics,3,2603.12,UPI,4.0,7809.36
+ORD1017,2024-09-22,West,Laptop,Electronics,4,50507.16,Credit Card,4.0,202028.64
+ORD1267,2024-09-23,North,Smartphone,Electronics,5,23159.01,Debit Card,5.0,115795.05
+ORD1690,2024-09-23,North,Headphones,Electronics,3,2269.46,Credit Card,4.0,6808.38
+ORD1572,2024-09-24,South,Desk,Furniture,2,11536.92,UPI,4.0,23073.84
+ORD1708,2024-09-24,North,Office Chair,Furniture,4,7408.55,UPI,2.0,29634.2
+ORD1964,2024-09-25,South,Water Bottle,Accessories,6,581.38,UPI,4.0,3488.28
+ORD1086,2024-09-25,South,Pen Set,Stationery,6,235.26,Credit Card,5.0,1411.56
+ORD1056,2024-09-25,West,Desk,Furniture,7,12281.63,UPI,4.0,85971.41
+ORD1399,2024-09-25,North,Desk,Furniture,7,12355.11,Debit Card,1.0,86485.77
+ORD1343,2024-09-27,West,Notebook,Stationery,4,110.48,UPI,4.0,441.92
+ORD1057,2024-09-27,South,Notebook,Stationery,6,111.64,Cash,4.0,669.84
+ORD1114,2024-09-28,West,Smartphone,Electronics,2,21785.72,Debit Card,,43571.44
+ORD1637,2024-09-29,West,Pen Set,Stationery,4,235.83,Debit Card,5.0,943.32
+ORD1124,2024-09-29,South,Laptop,Electronics,1,51594.61,Cash,4.0,51594.61
+ORD1171,2024-09-29,East,Notebook,Stationery,4,124.13,Debit Card,4.0,496.52
+ORD1324,2024-09-30,West,Backpack,Accessories,7,1837.55,UPI,3.0,12862.85
+ORD1986,2024-09-30,West,Headphones,Electronics,7,2360.07,Credit Card,1.0,16520.49
+ORD1402,2024-09-30,West,Pen Set,Stationery,5,251.17,UPI,4.0,1255.85
+ORD1042,2024-09-30,South,Pen Set,Stationery,3,263.24,UPI,4.0,789.72
+ORD1351,2024-10-01,West,Smartphone,Electronics,4,20310.84,UPI,5.0,81243.36
+ORD1293,2024-10-01,East,Smartphone,Electronics,6,21962.89,Credit Card,4.0,131777.34
+ORD1048,2024-10-01,South,Pen Set,Stationery,3,270.93,UPI,3.0,812.79
+ORD1098,2024-10-01,West,Smartphone,Electronics,7,20933.82,Debit Card,5.0,146536.74
+ORD1043,2024-10-01,North,Headphones,Electronics,4,2473.69,Cash,4.0,9894.76
+ORD1361,2024-10-02,West,Smartphone,Electronics,6,21323.34,Credit Card,2.0,127940.04
+ORD1502,2024-10-02,West,Water Bottle,Accessories,1,540.08,Credit Card,2.0,540.08
+ORD1347,2024-10-02,East,Headphones,Electronics,4,2544.81,Cash,5.0,10179.24
+ORD1605,2024-10-03,East,Pen Set,Stationery,1,225.2,UPI,4.0,225.2
+ORD1513,2024-10-03,South,Headphones,Electronics,7,2735.63,UPI,4.0,19149.41
+ORD1428,2024-10-03,North,Laptop,Electronics,1,59667.19,UPI,5.0,59667.19
+ORD1604,2024-10-04,East,Water Bottle,Accessories,5,652.27,Debit Card,4.0,3261.35
+ORD1421,2024-10-04,South,Laptop,Electronics,7,53264.96,UPI,4.0,372854.72
+ORD1782,2024-10-05,South,Desk,Furniture,7,13039.15,Cash,4.0,91274.05
+ORD1364,2024-10-05,East,Notebook,Stationery,2,115.55,Debit Card,5.0,231.1
+ORD1942,2024-10-06,North,Smartphone,Electronics,2,20639.89,Credit Card,3.0,41279.78
+ORD1175,2024-10-06,West,Laptop,Electronics,2,49942.0,Credit Card,1.0,99884.0
+ORD1280,2024-10-06,North,Laptop,Electronics,5,56811.04,UPI,5.0,284055.2
+ORD1842,2024-10-06,West,Notebook,Stationery,4,123.66,UPI,3.0,494.64
+ORD1173,2024-10-06,North,Water Bottle,Accessories,3,658.15,UPI,1.0,1974.45
+ORD1106,2024-10-07,West,Desk,Furniture,6,11595.54,Debit Card,3.0,69573.24
+ORD1936,2024-10-07,East,Water Bottle,Accessories,2,581.12,UPI,3.0,1162.24
+ORD1120,2024-10-08,North,Notebook,Stationery,6,111.89,Cash,4.0,671.34
+ORD1994,2024-10-09,West,Water Bottle,Accessories,1,568.53,Credit Card,4.0,568.53
+ORD1921,2024-10-09,North,Backpack,Accessories,6,1932.06,UPI,1.0,11592.36
+ORD1574,2024-10-09,South,Backpack,Accessories,5,1736.04,Debit Card,,8680.2
+ORD1446,2024-10-10,North,Water Bottle,Accessories,5,621.49,UPI,5.0,3107.45
+ORD1211,2024-10-10,South,Notebook,Stationery,2,124.83,UPI,3.0,249.66
+ORD1661,2024-10-10,South,Backpack,Accessories,2,1947.0,Cash,1.0,3894.0
+ORD1319,2024-10-10,East,Water Bottle,Accessories,2,577.35,UPI,4.0,1154.7
+ORD1095,2024-10-11,East,Notebook,Stationery,2,109.14,UPI,4.0,218.28
+ORD1448,2024-10-11,North,Laptop,Electronics,3,53109.11,Credit Card,4.0,159327.33
+ORD1602,2024-10-12,West,Water Bottle,Accessories,1,600.15,Cash,5.0,600.15
+ORD1857,2024-10-12,South,Backpack,Accessories,3,1777.51,Credit Card,4.0,5332.53
+ORD1987,2024-10-13,West,Laptop,Electronics,4,54634.28,UPI,4.0,218537.12
+ORD1647,2024-10-14,West,Notebook,Stationery,7,117.34,UPI,2.0,821.38
+ORD1008,2024-10-15,North,Smartphone,Electronics,6,20149.82,UPI,5.0,120898.92
+ORD1283,2024-10-15,North,Headphones,Electronics,6,2297.11,UPI,4.0,13782.66
+ORD1724,2024-10-16,West,Smartphone,Electronics,2,23406.8,UPI,5.0,46813.6
+ORD1235,2024-10-16,West,Backpack,Accessories,7,1667.72,UPI,4.0,11674.04
+ORD1808,2024-10-16,East,Notebook,Stationery,4,130.46,Credit Card,2.0,521.84
+ORD1670,2024-10-16,South,Smartphone,Electronics,3,21383.7,UPI,4.0,64151.1
+ORD1701,2024-10-17,West,Headphones,Electronics,3,2372.03,Credit Card,2.0,7116.09
+ORD1800,2024-10-17,West,Pen Set,Stationery,1,225.78,Credit Card,4.0,225.78
+ORD1546,2024-10-17,South,Office Chair,Furniture,2,7470.12,Cash,5.0,14940.24
+ORD1205,2024-10-18,West,Headphones,Electronics,4,2458.35,Debit Card,1.0,9833.4
+ORD1831,2024-10-18,South,Notebook,Stationery,2,122.9,UPI,3.0,245.8
+ORD1256,2024-10-18,North,Backpack,Accessories,1,1656.52,UPI,4.0,1656.52
+ORD1898,2024-10-18,North,Smartphone,Electronics,5,20387.38,Cash,4.0,101936.9
+ORD1004,2024-10-19,West,Smartphone,Electronics,6,20171.72,Credit Card,1.0,121030.32
+ORD1556,2024-10-19,West,Headphones,Electronics,1,2499.14,Debit Card,4.0,2499.14
+ORD1295,2024-10-20,South,Water Bottle,Accessories,6,655.96,Credit Card,4.0,3935.76
+ORD1496,2024-10-20,South,Office Chair,Furniture,6,7825.59,Credit Card,5.0,46953.54
+ORD1534,2024-10-20,North,Laptop,Electronics,1,57256.39,Credit Card,,57256.39
+ORD1570,2024-10-20,West,Headphones,Electronics,6,2630.97,UPI,3.0,15785.82
+ORD1901,2024-10-20,West,Headphones,Electronics,2,2655.15,UPI,1.0,5310.3
+ORD1982,2024-10-20,North,Pen Set,Stationery,7,254.06,UPI,5.0,1778.42
+ORD1566,2024-10-20,South,Pen Set,Stationery,2,268.04,Debit Card,4.0,536.08
+ORD1092,2024-10-21,West,Desk,Furniture,1,12840.63,Debit Card,4.0,12840.63
+ORD1544,2024-10-21,West,Smartphone,Electronics,2,21252.11,UPI,4.0,42504.22
+ORD1531,2024-10-22,South,Pen Set,Stationery,7,225.82,UPI,5.0,1580.74
+ORD1934,2024-10-22,East,Pen Set,Stationery,6,249.85,Credit Card,3.0,1499.1
+ORD1747,2024-10-23,East,Office Chair,Furniture,2,8064.59,Credit Card,5.0,16129.18
+ORD1160,2024-10-23,North,Smartphone,Electronics,3,24121.82,Credit Card,5.0,72365.46
+ORD1683,2024-10-23,North,Desk,Furniture,4,11968.91,Debit Card,4.0,47875.64
+ORD1158,2024-10-24,South,Pen Set,Stationery,1,270.8,Credit Card,4.0,270.8
+ORD1195,2024-10-25,East,Smartphone,Electronics,3,21507.44,Credit Card,5.0,64522.32
+ORD1337,2024-10-26,South,Pen Set,Stationery,5,269.16,UPI,4.0,1345.8
+ORD1872,2024-10-26,South,Water Bottle,Accessories,6,553.38,Debit Card,2.0,3320.28
+ORD1287,2024-10-27,East,Headphones,Electronics,7,2460.53,UPI,4.0,17223.71
+ORD1515,2024-10-27,East,Smartphone,Electronics,5,23123.63,UPI,5.0,115618.15
+ORD1983,2024-10-27,South,Desk,Furniture,6,11362.14,UPI,,68172.84
+ORD1944,2024-10-27,South,Desk,Furniture,2,11226.75,Credit Card,1.0,22453.5
+ORD1325,2024-10-28,North,Notebook,Stationery,3,128.32,Credit Card,3.0,384.96
+ORD1371,2024-10-28,South,Headphones,Electronics,6,2268.15,UPI,,13608.9
+ORD1333,2024-10-28,North,Backpack,Accessories,7,1707.36,Credit Card,3.0,11951.52
+ORD1080,2024-10-29,West,Pen Set,Stationery,3,236.1,UPI,3.0,708.3
+ORD1609,2024-10-29,North,Desk,Furniture,1,11341.87,Cash,5.0,11341.87
+ORD1423,2024-10-29,South,Laptop,Electronics,2,53928.74,UPI,1.0,107857.48
+ORD1405,2024-10-30,South,Backpack,Accessories,3,1912.5,Credit Card,5.0,5737.5
+ORD1821,2024-10-30,North,Notebook,Stationery,5,123.07,UPI,5.0,615.35
+ORD1454,2024-10-30,West,Smartphone,Electronics,3,24159.81,Credit Card,5.0,72479.43
+ORD1245,2024-10-31,East,Backpack,Accessories,2,1820.24,UPI,4.0,3640.48
+ORD1285,2024-10-31,West,Office Chair,Furniture,5,7708.1,UPI,2.0,38540.5
+ORD1862,2024-11-01,South,Pen Set,Stationery,5,258.8,UPI,4.0,1294.0
+ORD1789,2024-11-01,South,Notebook,Stationery,7,124.76,,4.0,873.32
+ORD1783,2024-11-02,East,Notebook,Stationery,7,113.43,Credit Card,5.0,794.01
+ORD1703,2024-11-02,North,Backpack,Accessories,4,1866.35,UPI,5.0,7465.4
+ORD1456,2024-11-03,East,Water Bottle,Accessories,2,652.51,UPI,3.0,1305.02
+ORD1450,2024-11-03,West,Laptop,Electronics,2,57110.68,Debit Card,1.0,114221.36
+ORD1207,2024-11-03,South,Pen Set,Stationery,6,228.13,UPI,5.0,1368.78
+ORD1825,2024-11-04,West,Laptop,Electronics,4,55494.81,Credit Card,3.0,221979.24
+ORD1167,2024-11-04,South,Backpack,Accessories,2,1687.88,Credit Card,5.0,3375.76
+ORD1035,2024-11-05,South,Smartphone,Electronics,2,22906.83,UPI,3.0,45813.66
+ORD1438,2024-11-05,South,Pen Set,Stationery,3,225.35,UPI,,676.05
+ORD1620,2024-11-06,South,Pen Set,Stationery,1,256.09,UPI,4.0,256.09
+ORD1148,2024-11-06,West,Office Chair,Furniture,3,8037.65,Credit Card,5.0,24112.95
+ORD1918,2024-11-06,North,Headphones,Electronics,5,2580.23,Cash,5.0,12901.15
+ORD1511,2024-11-07,South,Backpack,Accessories,6,1874.62,Credit Card,4.0,11247.72
+ORD1639,2024-11-07,West,Backpack,Accessories,7,1812.38,UPI,4.0,12686.66
+ORD1654,2024-11-07,East,Backpack,Accessories,2,1734.36,Credit Card,3.0,3468.72
+ORD1672,2024-11-07,South,Water Bottle,Accessories,7,575.55,UPI,4.0,4028.85
+ORD1318,2024-11-07,South,Headphones,Electronics,6,2292.78,Cash,4.0,13756.68
+ORD1149,2024-11-08,West,Laptop,Electronics,4,51521.71,Credit Card,3.0,206086.84
+ORD1376,2024-11-08,South,Water Bottle,Accessories,2,541.22,Debit Card,3.0,1082.44
+ORD1993,2024-11-09,West,Smartphone,Electronics,5,21223.72,UPI,5.0,106118.6
+ORD1671,2024-11-09,South,Notebook,Stationery,5,122.66,UPI,5.0,613.3
+ORD1152,2024-11-09,South,Smartphone,Electronics,2,21356.98,Credit Card,4.0,42713.96
+ORD1097,2024-11-10,North,Smartphone,Electronics,3,21517.22,Credit Card,4.0,64551.66
+ORD1481,2024-11-10,South,Smartphone,Electronics,1,22903.06,Credit Card,1.0,22903.06
+ORD1868,2024-11-10,South,Smartphone,Electronics,7,22528.5,Credit Card,2.0,157699.5
+ORD1197,2024-11-10,West,Backpack,Accessories,7,1653.88,Cash,4.0,11577.16
+ORD1846,2024-11-11,West,Office Chair,Furniture,1,7848.48,UPI,5.0,7848.48
+ORD1902,2024-11-11,West,Laptop,Electronics,1,57253.61,UPI,3.0,57253.61
+ORD1600,2024-11-11,West,Desk,Furniture,3,11488.41,Credit Card,,34465.23
+ORD1331,2024-11-11,West,Smartphone,Electronics,6,21009.87,Cash,5.0,126059.22
+ORD1905,2024-11-12,South,Notebook,Stationery,2,124.04,Credit Card,5.0,248.08
+ORD1817,2024-11-13,West,Notebook,Stationery,7,114.72,Credit Card,3.0,803.04
+ORD1557,2024-11-13,South,Notebook,Stationery,2,130.22,Debit Card,4.0,260.44
+ORD1104,2024-11-14,South,Pen Set,Stationery,1,257.05,Cash,5.0,257.05
+ORD1755,2024-11-14,East,Headphones,Electronics,3,2421.91,Credit Card,4.0,7265.73
+ORD1878,2024-11-14,North,Notebook,Stationery,5,108.48,UPI,5.0,542.4
+ORD1796,2024-11-14,West,Laptop,Electronics,7,56638.03,UPI,4.0,396466.21
+ORD1389,2024-11-15,South,Backpack,Accessories,7,1716.66,Credit Card,5.0,12016.62
+ORD1709,2024-11-16,North,Desk,Furniture,6,12562.07,UPI,4.0,75372.42
+ORD1385,2024-11-16,South,Water Bottle,Accessories,7,622.23,Cash,5.0,4355.61
+ORD1141,2024-11-16,North,Notebook,Stationery,1,112.15,Credit Card,4.0,112.15
+ORD1000,2024-11-17,East,Pen Set,Stationery,2,266.46,Debit Card,3.0,532.92
+ORD1303,2024-11-17,East,Notebook,Stationery,3,131.99,UPI,4.0,395.97
+ORD1651,2024-11-17,North,Backpack,Accessories,6,1695.67,Debit Card,4.0,10174.02
+ORD1226,2024-11-17,South,Laptop,Electronics,3,56948.94,Credit Card,3.0,170846.82
+ORD1677,2024-11-17,West,Notebook,Stationery,3,121.72,UPI,4.0,365.16
+ORD1650,2024-11-18,East,Office Chair,Furniture,7,7195.99,Debit Card,5.0,50371.93
+ORD1700,2024-11-18,North,Headphones,Electronics,5,2691.67,Cash,5.0,13458.35
+ORD1756,2024-11-19,West,Headphones,Electronics,3,2380.83,Credit Card,3.0,7142.49
+ORD1239,2024-11-19,West,Smartphone,Electronics,7,21217.15,Debit Card,4.0,148520.05
+ORD1090,2024-11-20,North,Smartphone,Electronics,7,23649.22,UPI,4.0,165544.54
+ORD1497,2024-11-21,South,Notebook,Stationery,4,126.2,Credit Card,4.0,504.8
+ORD1451,2024-11-21,North,Backpack,Accessories,6,1821.33,Cash,4.0,10927.98
+ORD1299,2024-11-22,East,Notebook,Stationery,6,108.64,Debit Card,2.0,651.84
+ORD1470,2024-11-22,South,Office Chair,Furniture,5,7408.82,Cash,4.0,37044.1
+ORD1041,2024-11-22,South,Backpack,Accessories,2,1952.74,Debit Card,3.0,3905.48
+ORD1445,2024-11-23,West,Pen Set,Stationery,3,241.83,Credit Card,3.0,725.49
+ORD1060,2024-11-23,West,Pen Set,Stationery,4,254.89,Cash,3.0,1019.56
+ORD1977,2024-11-24,North,Office Chair,Furniture,2,6959.1,UPI,4.0,13918.2
+ORD1837,2024-11-25,South,Water Bottle,Accessories,1,544.79,UPI,4.0,544.79
+ORD1988,2024-11-26,North,Headphones,Electronics,7,2745.22,Cash,5.0,19216.54
+ORD1777,2024-11-26,North,Smartphone,Electronics,1,20144.34,UPI,4.0,20144.34
+ORD1938,2024-11-26,South,Backpack,Accessories,7,1799.17,Credit Card,4.0,12594.19
+ORD1067,2024-11-27,North,Headphones,Electronics,1,2340.97,Debit Card,4.0,2340.97
+ORD1286,2024-11-27,South,Laptop,Electronics,3,56413.24,Cash,5.0,169239.72
+ORD1784,2024-11-29,North,Water Bottle,Accessories,4,602.98,Cash,3.0,2411.92
+ORD1692,2024-11-29,West,Headphones,Electronics,7,2296.13,Debit Card,4.0,16072.91
+ORD1893,2024-11-29,North,Smartphone,Electronics,3,22101.94,UPI,5.0,66305.82
+ORD1113,2024-11-29,South,Notebook,Stationery,1,123.75,Credit Card,5.0,123.75
+ORD1100,2024-11-30,West,Water Bottle,Accessories,4,654.38,UPI,4.0,2617.52
+ORD1163,2024-11-30,North,Laptop,Electronics,6,57364.17,UPI,4.0,344185.02
+ORD1632,2024-11-30,West,Laptop,Electronics,4,56087.44,UPI,4.0,224349.76
+ORD1112,2024-11-30,West,Headphones,Electronics,7,2605.58,Debit Card,5.0,18239.06
+ORD1304,2024-12-01,East,Backpack,Accessories,2,1878.73,UPI,1.0,3757.46
+ORD1530,2024-12-01,North,Pen Set,Stationery,5,227.44,Debit Card,4.0,1137.2
+ORD1382,2024-12-01,South,Pen Set,Stationery,3,271.12,UPI,5.0,813.36
+ORD1795,2024-12-01,North,Headphones,Electronics,2,2576.55,UPI,4.0,5153.1
+ORD1830,2024-12-03,East,Notebook,Stationery,3,119.42,Credit Card,4.0,358.26
+ORD1960,2024-12-03,West,Notebook,Stationery,2,115.57,UPI,1.0,231.14
+ORD1013,2024-12-03,West,Backpack,Accessories,7,1871.35,UPI,5.0,13099.45
+ORD1624,2024-12-03,South,Water Bottle,Accessories,2,620.21,UPI,1.0,1240.42
+ORD1532,2024-12-04,South,Office Chair,Furniture,4,7460.21,Debit Card,4.0,29840.84
+ORD1165,2024-12-04,West,Headphones,Electronics,1,2595.32,UPI,5.0,2595.32
+ORD1623,2024-12-04,North,Desk,Furniture,7,12805.23,Cash,4.0,89636.61
+ORD1569,2024-12-05,South,Notebook,Stationery,2,115.36,Credit Card,5.0,230.72
+ORD1611,2024-12-05,East,Notebook,Stationery,2,115.86,UPI,5.0,231.72
+ORD1861,2024-12-06,North,Pen Set,Stationery,5,226.41,Cash,1.0,1132.05
+ORD1492,2024-12-06,South,Notebook,Stationery,2,128.54,Cash,3.0,257.08
+ORD1412,2024-12-06,West,Smartphone,Electronics,4,22049.16,Debit Card,4.0,88196.64
+ORD1499,2024-12-06,East,Notebook,Stationery,1,128.5,Debit Card,3.0,128.5
+ORD1732,2024-12-06,North,Smartphone,Electronics,6,22323.51,UPI,4.0,133941.06
+ORD1674,2024-12-06,South,Notebook,Stationery,4,126.98,Debit Card,4.0,507.92
+ORD1571,2024-12-07,South,Backpack,Accessories,5,1670.56,Cash,1.0,8352.8
+ORD1886,2024-12-07,West,Office Chair,Furniture,7,8230.34,UPI,3.0,57612.38
+ORD1227,2024-12-07,West,Notebook,Stationery,6,112.68,UPI,1.0,676.08
+ORD1952,2024-12-08,East,Headphones,Electronics,2,2722.18,UPI,4.0,5444.36
+ORD1288,2024-12-08,West,Notebook,Stationery,2,110.16,Cash,4.0,220.32
+ORD1877,2024-12-08,East,Headphones,Electronics,2,2726.46,Debit Card,3.0,5452.92
+ORD1790,2024-12-08,West,Smartphone,Electronics,6,20774.86,Credit Card,5.0,124649.16
+ORD1781,2024-12-08,North,Water Bottle,Accessories,2,640.33,Cash,5.0,1280.66
+ORD1941,2024-12-08,North,Backpack,Accessories,4,1686.84,UPI,4.0,6747.36
+ORD1457,2024-12-08,North,Desk,Furniture,3,12965.53,Credit Card,4.0,38896.59
+ORD1694,2024-12-08,East,Water Bottle,Accessories,5,630.23,UPI,5.0,3151.15
+ORD1147,2024-12-08,West,Notebook,Stationery,6,125.08,Debit Card,4.0,750.48
+ORD1630,2024-12-08,North,Water Bottle,Accessories,4,552.77,UPI,4.0,2211.08
+ORD1648,2024-12-08,West,Pen Set,Stationery,7,237.35,UPI,4.0,1661.45
+ORD1168,2024-12-08,North,Headphones,Electronics,3,2288.32,Credit Card,,6864.96
+ORD1232,2024-12-09,West,Water Bottle,Accessories,3,602.2,Debit Card,4.0,1806.6
+ORD1096,2024-12-09,North,Headphones,Electronics,5,2291.78,Credit Card,4.0,11458.9
+ORD1712,2024-12-10,West,Backpack,Accessories,4,1977.21,Credit Card,5.0,7908.84
+ORD1827,2024-12-11,North,Headphones,Electronics,5,2413.92,Credit Card,3.0,12069.6
+ORD1220,2024-12-12,North,Headphones,Electronics,3,2387.12,UPI,2.0,7161.36
+ORD1619,2024-12-12,South,Laptop,Electronics,2,60107.11,Credit Card,2.0,120214.22
+ORD1053,2024-12-12,South,Pen Set,Stationery,7,264.14,Credit Card,2.0,1848.98
+ORD1917,2024-12-12,East,Smartphone,Electronics,2,22197.34,Debit Card,5.0,44394.68
+ORD1396,2024-12-12,East,Backpack,Accessories,7,1646.92,UPI,4.0,11528.44
+ORD1743,2024-12-12,South,Laptop,Electronics,4,55118.32,,5.0,220473.28
+ORD1027,2024-12-13,South,Laptop,Electronics,1,58956.48,Debit Card,4.0,58956.48
+ORD1527,2024-12-13,South,Water Bottle,Accessories,3,558.42,Debit Card,3.0,1675.26
+ORD1907,2024-12-13,South,Smartphone,Electronics,7,23677.43,UPI,4.0,165742.01
+ORD1386,2024-12-14,North,Pen Set,Stationery,2,252.45,UPI,2.0,504.9
+ORD1121,2024-12-14,South,Notebook,Stationery,5,115.98,Debit Card,4.0,579.9
+ORD1388,2024-12-15,West,Smartphone,Electronics,4,21732.8,Debit Card,4.0,86931.2
+ORD1164,2024-12-15,West,Notebook,Stationery,3,122.42,Credit Card,4.0,367.26
+ORD1542,2024-12-16,East,Backpack,Accessories,3,1938.92,Cash,4.0,5816.76
+ORD1769,2024-12-16,West,Notebook,Stationery,4,123.14,Debit Card,5.0,492.56
+ORD1730,2024-12-17,South,Headphones,Electronics,6,2718.14,UPI,3.0,16308.84
+ORD1116,2024-12-17,North,Pen Set,Stationery,2,232.97,Credit Card,4.0,465.94
+ORD1142,2024-12-18,South,Water Bottle,Accessories,5,659.52,UPI,4.0,3297.6
+ORD1512,2024-12-18,North,Laptop,Electronics,7,60367.33,Cash,,422571.31
+ORD1362,2024-12-18,West,Smartphone,Electronics,5,22374.65,Debit Card,3.0,111873.25
+ORD1813,2024-12-18,North,Notebook,Stationery,7,109.48,Cash,5.0,766.36
+ORD1676,2024-12-18,South,Water Bottle,Accessories,4,578.64,UPI,3.0,2314.56
+ORD1669,2024-12-18,South,Office Chair,Furniture,5,7613.73,UPI,5.0,38068.65
+ORD1836,2024-12-19,West,Pen Set,Stationery,7,259.28,UPI,5.0,1814.96
+ORD1667,2024-12-19,South,Water Bottle,Accessories,6,555.43,UPI,5.0,3332.58
+ORD1805,2024-12-20,South,Smartphone,Electronics,2,20492.77,Debit Card,5.0,40985.54
+ORD1598,2024-12-20,North,Water Bottle,Accessories,6,654.15,UPI,4.0,3924.9
+ORD1578,2024-12-20,South,Backpack,Accessories,4,1888.3,Credit Card,5.0,7553.2
+ORD1610,2024-12-21,South,Notebook,Stationery,2,123.75,Cash,1.0,247.5
+ORD1588,2024-12-21,East,Smartphone,Electronics,6,23229.17,Credit Card,4.0,139375.02
+ORD1839,2024-12-21,North,Notebook,Stationery,5,114.79,UPI,3.0,573.95
+ORD1541,2024-12-21,West,Notebook,Stationery,2,121.06,UPI,4.0,242.12
+ORD1749,2024-12-22,South,Backpack,Accessories,1,1692.1,UPI,5.0,1692.1
+ORD1962,2024-12-22,North,Smartphone,Electronics,6,22857.11,Credit Card,4.0,137142.66
+ORD1879,2024-12-23,East,Notebook,Stationery,1,118.05,UPI,3.0,118.05
+ORD1131,2024-12-23,West,Water Bottle,Accessories,3,648.13,Credit Card,3.0,1944.39
+ORD1269,2024-12-23,West,Laptop,Electronics,4,51041.98,Debit Card,4.0,204167.92
+ORD1823,2024-12-23,North,Pen Set,Stationery,2,226.55,Debit Card,3.0,453.1
+ORD1387,2024-12-23,North,Water Bottle,Accessories,7,653.34,,3.0,4573.38
+ORD1871,2024-12-23,South,Laptop,Electronics,4,51740.58,UPI,3.0,206962.32
+ORD1229,2024-12-24,South,Smartphone,Electronics,2,21927.45,UPI,3.0,43854.9
+ORD1626,2024-12-24,South,Pen Set,Stationery,3,269.26,Debit Card,5.0,807.78
+ORD1535,2024-12-24,West,Smartphone,Electronics,5,23299.42,UPI,5.0,116497.1
+ORD1169,2024-12-24,West,Water Bottle,Accessories,1,612.5,Credit Card,4.0,612.5
+ORD1689,2024-12-25,West,Notebook,Stationery,2,117.15,Debit Card,5.0,234.3
+ORD1973,2024-12-25,South,Water Bottle,Accessories,1,563.64,Cash,5.0,563.64
+ORD1554,2024-12-25,South,Laptop,Electronics,4,52717.14,UPI,4.0,210868.56
+ORD1034,2024-12-26,North,Desk,Furniture,1,13164.87,UPI,4.0,13164.87
+ORD1038,2024-12-27,West,Headphones,Electronics,7,2342.16,UPI,5.0,16395.12
+ORD1378,2024-12-27,East,Office Chair,Furniture,4,7432.39,Cash,3.0,29729.56
+ORD1652,2024-12-27,West,Pen Set,Stationery,1,240.46,UPI,4.0,240.46
+ORD1802,2024-12-28,South,Backpack,Accessories,4,1732.46,UPI,5.0,6929.84
+ORD1375,2024-12-28,West,Smartphone,Electronics,5,21667.08,UPI,4.0,108335.4
+ORD1754,2024-12-28,West,Pen Set,Stationery,2,248.23,Cash,2.0,496.46
+ORD1767,2024-12-29,South,Laptop,Electronics,3,53206.85,Credit Card,4.0,159620.55
+ORD1259,2024-12-29,West,Notebook,Stationery,2,109.03,UPI,3.0,218.06
+ORD1045,2024-12-29,South,Backpack,Accessories,3,1971.15,UPI,5.0,5913.45
+ORD1616,2024-12-29,South,Pen Set,Stationery,6,243.28,UPI,4.0,1459.68
+ORD1955,2024-12-30,East,Backpack,Accessories,5,1833.6,UPI,4.0,9168.0
+ORD1519,2024-12-30,South,Backpack,Accessories,4,1895.54,UPI,4.0,7582.16
+ORD1172,2024-12-30,West,Headphones,Electronics,7,2605.38,Cash,5.0,18237.66
+ORD1261,2024-12-31,North,Backpack,Accessories,1,1870.6,Cash,4.0,1870.6
+ORD1217,2024-12-31,East,Smartphone,Electronics,5,19857.17,UPI,1.0,99285.85
